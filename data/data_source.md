@@ -5,6 +5,8 @@
 
 #### Socioeconomic factors
 
+- `covid19_vaccinations_equity.csv` - source ?
+
 #### Health risks
 
 #### Covid-19 severity
