@@ -14,7 +14,7 @@ Github repo for the capstone project Team #27.
 
 
 
-`./data/data_source.md` - where does all the data come from?
+`./data/data_source.md` - where do all the data come from?
 
 `./data/raw` - raw data downloaded from source
 
