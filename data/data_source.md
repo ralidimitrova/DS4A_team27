@@ -1,5 +1,10 @@
 # Data source:
 
+#### Vaccination rate US 
+
+- CDC - [data](https://covid.cdc.gov/covid-data-tracker/#vaccinations-county-view|Vaccinations|Series_Complete_12PlusPop_Pct|all)
+- Texas Heath department [data](https://tabexternal.dshs.texas.gov/t/THD/views/COVID-19VaccineinTexasDashboard/Summary?%3Aembed=y)
+
 
 #### Demographics factors
 
