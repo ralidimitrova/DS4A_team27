@@ -33,8 +33,3 @@ Github repo for the capstone project Team #27.
 
 `./data/plots` - plots/figures for report
 
-
-
-
-
-*test - pull from GitHub to Google Colab*
