@@ -15,7 +15,7 @@ Github repo for the capstone project Team #27.
   - `00_vaccination_rate_us.ipynb` - extraction of the vaccination rate data (date: 03/10/21)
   - `01_vaccination_rate_us_visualisation.ipynb` - visualisation of the vacc rate using plotly
   - `02_covid19_severity_us.ipynb` - extraction and visualisation of the covid19 death/cases (date: 03/10/21)
-  - `Hesitancy_SVI_Ethnicty.ipynb` - extraction and visualisation of the Hesitancy, Social Vulnerability Index, Ethnicity
+  - `Hesitancy_SVI_Ethnicity.ipynb` - extraction and visualisation of the Hesitancy, Social Vulnerability Index, Ethnicity
 
 
 ----
