@@ -13,7 +13,7 @@
 
 #### Socioeconomic factors
 
-- `covid19_vaccinations_equity.csv` - source ?
+- `Hesitancy_SVI_Ethnicity.csv` - https://data.cdc.gov/Vaccinations/Vaccine-Hesitancy-for-COVID-19-County-and-local-es/q9mh-h2tw
 
 #### Health risks
 
