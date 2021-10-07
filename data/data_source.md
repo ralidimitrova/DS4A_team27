@@ -17,6 +17,9 @@
 
 #### Health risks
 
+- `covid19_heath_disparity.csv` - [Li et al. 2021](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-11060-9#MOESM1), data from [lin-lab
+/COVID-Health-Disparities](https://github.com/lin-lab/COVID-Health-Disparities)
+
 #### Government & Political climate:
 
 - `US Election results 2020 / 2016` - data from [tonmcg/US_County_Level_Election_Results_08-20](https://github.com/tonmcg/US_County_Level_Election_Results_08-20)
