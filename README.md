@@ -33,8 +33,11 @@ Github repo for the capstone project Team #27.
   - `covi19_death_cases.csv` - covid19 cases and death (county level)
   - `covid19_health_disparity.csv` - heath disparity data (county level)
   - `Hesitancy_SVI_Ethnicity.csv` - Hesitancy, Social Vulnerability Index, Ethnicty (county level)
-  - `PVI_05_Oct_2021_data_clean.cs` - Vaccines, Infection Rate, Pop Concentration, Intervention and Health & Environment (County level)
-  - `PVI_05_Oct_2021_results_clean.cs` - Vaccines, total PVI index, Infection Rate indexes, Pop Concentration indexes, Intervention indexes and Health & Environment indexes (County level)
+  - `PVI_05_Oct_2021_data_clean.csv` - Vaccines, Infection Rate, Pop Concentration, Intervention and Health & Environment (County level)
+  - `PVI_05_Oct_2021_results_clean.csv` - Vaccines, total PVI index, Infection Rate indexes, Pop Concentration indexes, Intervention indexes and Health & Environment indexes (County level)
+
+
+  - `covid19_current_draft_data.csv` - current draft of covid19 data 
 
 ----
 
