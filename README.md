@@ -31,8 +31,8 @@ Github repo for the capstone project Team #27.
   - `vaccination_rate_US.csv` - vaccine rates US (target feature)
   - `covi19_death_cases.csv` - covid19 cases and death (county level)
   - `Hesitancy_SVI_Ethnicity.csv` - Hesitancy, Social Vulnerability Index, Ethnicty (county level)
-  - `PVI_05_Oct_2021_data.cs` - Vaccines, Infection Rate, Pop Concentration, Intervention and Health & Environment (County level)
-  - `PVI_05_Oct_2021_results.cs` - Vaccines, total PVI index, Infection Rate indexes, Pop Concentration indexes, Intervention indexes and Health & Environment indexes (County level)
+  - `PVI_05_Oct_2021_data_clean.cs` - Vaccines, Infection Rate, Pop Concentration, Intervention and Health & Environment (County level)
+  - `PVI_05_Oct_2021_results_clean.cs` - Vaccines, total PVI index, Infection Rate indexes, Pop Concentration indexes, Intervention indexes and Health & Environment indexes (County level)
 
 ----
 
