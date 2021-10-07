@@ -21,5 +21,11 @@
 
 - `US Election results 2020 / 2016` - data from [tonmcg/US_County_Level_Election_Results_08-20](https://github.com/tonmcg/US_County_Level_Election_Results_08-20)
 
+#### PVI (Pandemic Vulnerability Index)
+
+- `PVI_05_Oct_2021_data.csv`  - source [COVID19PVI/data](https://github.com/COVID19PVI/data/blob/master/Model12.4/Model_12.4_20211005_data.csv)
+
+
+- `PVI_05_Oct_2021_results.csv`  - source [COVID19PVI/data](https://github.com/COVID19PVI/data/blob/master/Model12.4/Model_12.4_20211005_results.csv)
 
 
