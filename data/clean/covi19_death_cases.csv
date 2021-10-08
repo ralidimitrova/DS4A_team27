@@ -70,29 +70,29 @@ fips,state,county,state_abb,popfull_per,pop_full_12plus_per,pop_full_18plus_per,
 2016,Alaska,Aleutians West Census Area,AK,54.6,59.2,59.1,58.2,65.5,71.0,70.6,65.4,Aleutians West County,913.0,Aleutians West County,1.0,5634.0,2,16.20518281860135,0.01774937877174299
 2020,Alaska,Anchorage Municipality,AK,54.3,64.8,66.6,87.3,62.1,74.0,75.9,93.2,Anchorage County,48255.0,Anchorage County,279.0,288000.0,2,16.755208333333332,0.096875
 2050,Alaska,Bethel Census Area,AK,56.2,74.5,76.7,83.8,61.3,81.0,82.5,87.8,Bethel County,5196.0,Bethel County,25.0,18386.0,2,28.260633090394865,0.13597302295224628
-2060,Alaska,Bristol Bay Borough,AK,90.0,99.9,99.9,86.0,99.9,99.9,99.9,91.2,Bristol Bay County,0.0,Bristol Bay County,0.0,836.0,2,0.0,0.0
+2060,Alaska,Bristol Bay Borough,AK,90.0,99.9,99.9,86.0,99.9,99.9,99.9,91.2,Bristol Bay County,,Bristol Bay County,,836.0,2,,
 2068,Alaska,Denali Borough,AK,45.6,52.4,53.1,74.8,52.4,60.1,61.2,78.6,Denali County,239.0,Denali County,1.0,2097.0,2,11.39723414401526,0.04768717215069146
 2070,Alaska,Dillingham Census Area,AK,42.5,54.7,54.8,67.0,47.5,61.2,61.3,72.7,Dillingham County,616.0,Dillingham County,5.0,4916.0,2,12.530512611879576,0.10170870626525631
 2090,Alaska,Fairbanks North Star Borough,AK,46.3,55.5,57.0,73.5,53.6,64.3,65.9,78.3,Fairbanks North Star County,13125.0,Fairbanks North Star County,66.0,96849.0,2,13.552024285227517,0.06814732212000123
-2100,Alaska,Haines Borough,AK,62.7,70.1,72.8,81.9,65.7,73.4,76.1,85.0,Haines County,216.0,Haines County,0.0,2530.0,2,8.537549407114625,0.0
-2105,Alaska,Hoonah-Angoon Census Area,AK,64.6,72.7,72.7,79.7,68.9,77.4,77.3,83.5,Hoonah-Angoon County,0.0,Hoonah-Angoon County,0.0,2148.0,2,0.0,0.0
+2100,Alaska,Haines Borough,AK,62.7,70.1,72.8,81.9,65.7,73.4,76.1,85.0,Haines County,216.0,Haines County,,2530.0,2,8.537549407114625,
+2105,Alaska,Hoonah-Angoon Census Area,AK,64.6,72.7,72.7,79.7,68.9,77.4,77.3,83.5,Hoonah-Angoon County,,Hoonah-Angoon County,,2148.0,2,,
 2110,Alaska,Juneau City and Borough,AK,64.6,74.8,75.6,93.3,70.5,81.6,82.3,98.5,Juneau County,3281.0,Juneau County,9.0,31974.0,2,10.261462438231064,0.0281478701444924
 2122,Alaska,Kenai Peninsula Borough,AK,40.4,47.4,49.8,72.0,44.8,52.5,54.9,76.3,Kenai Peninsula County,8948.0,Kenai Peninsula County,43.0,58708.0,2,15.241534373509571,0.07324385092321319
 2130,Alaska,Ketchikan Gateway Borough,AK,56.7,65.9,67.4,82.3,61.2,71.1,72.4,84.2,Ketchikan Gateway County,1475.0,Ketchikan Gateway County,8.0,13901.0,2,10.610747428242572,0.05754981655995971
 2150,Alaska,Kodiak Island Borough,AK,55.8,67.5,68.9,90.4,61.3,74.1,75.3,94.5,Kodiak Island County,2128.0,Kodiak Island County,7.0,12998.0,2,16.371749499923066,0.05385443914448376
 2158,Alaska,Kusilvak Census Area,AK,56.9,,81.6,91.7,61.2,,86.7,92.9,Kusilvak County,1810.0,Kusilvak County,5.0,8314.0,2,21.770507577579988,0.06013952369497233
-2164,Alaska,Lake and Peninsula Borough,AK,50.3,62.4,64.0,69.9,57.0,70.7,72.3,74.9,Bristol Bay plus Lake and Peninsula County,370.0,Bristol Bay plus Lake and Peninsula County,0.0,1592.0,2,23.241206030150753,0.0
+2164,Alaska,Lake and Peninsula Borough,AK,50.3,62.4,64.0,69.9,57.0,70.7,72.3,74.9,Bristol Bay plus Lake and Peninsula County,370.0,Bristol Bay plus Lake and Peninsula County,,1592.0,2,23.241206030150753,
 2170,Alaska,Matanuska-Susitna Borough,AK,31.7,38.2,40.1,63.4,36.3,43.8,45.6,68.0,Matanuska-Susitna County,18237.0,Matanuska-Susitna County,84.0,108317.0,2,16.83669230130081,0.07755015371548327
-2180,Alaska,Nome Census Area,AK,60.6,79.7,80.8,89.0,63.3,83.2,83.8,92.7,Nome County,1070.0,Nome County,0.0,10004.0,2,10.695721711315475,0.0
+2180,Alaska,Nome Census Area,AK,60.6,79.7,80.8,89.0,63.3,83.2,83.8,92.7,Nome County,1070.0,Nome County,,10004.0,2,10.695721711315475,
 2185,Alaska,North Slope Borough,AK,32.5,39.8,39.9,59.4,36.0,44.1,43.9,63.5,North Slope County,2338.0,North Slope County,5.0,9832.0,2,23.779495524816923,0.050854353132628156
 2188,Alaska,Northwest Arctic Borough,AK,49.6,66.5,68.0,84.2,53.6,71.8,72.7,86.7,Northwest Arctic County,1267.0,Northwest Arctic County,4.0,7621.0,2,16.62511481432883,0.05248655032148012
 2195,Alaska,Petersburg Census Area,AK,65.5,76.3,77.3,88.7,69.9,81.3,82.5,93.0,Petersburg County,255.0,Petersburg County,3.0,3266.0,2,7.807715860379669,0.09185548071034905
 2198,Alaska,Prince of Wales-Hyder Census Area,AK,47.6,55.6,56.4,69.1,53.4,62.3,63.1,76.2,Prince of Wales-Hyder County,468.0,Prince of Wales-Hyder County,5.0,6203.0,2,7.544736417862325,0.08060615831049493
 2220,Alaska,Sitka City and Borough,AK,68.1,78.6,79.6,90.2,70.8,,,,Sitka County,1124.0,Sitka County,5.0,8493.0,2,13.234428352761096,0.058872012245378545
-2230,Alaska,Skagway Municipality,AK,66.3,75.0,74.0,78.6,70.0,79.1,77.9,81.3,Skagway County,72.0,Skagway County,0.0,1183.0,2,6.086221470836856,0.0
+2230,Alaska,Skagway Municipality,AK,66.3,75.0,74.0,78.6,70.0,79.1,77.9,81.3,Skagway County,72.0,Skagway County,,1183.0,2,6.086221470836856,
 2240,Alaska,Southeast Fairbanks Census Area,AK,27.0,32.6,33.9,59.7,31.5,37.9,39.6,64.3,Southeast Fairbanks County,1060.0,Southeast Fairbanks County,9.0,6893.0,2,15.377919628608733,0.13056724212969678
-2261,Alaska,Valdez-Cordova Census Area,AK,50.9,60.3,63.0,73.4,55.6,65.8,68.6,77.9,Valdez-Cordova County,0.0,Valdez-Cordova County,0.0,9202.0,2,0.0,0.0
-2275,Alaska,Wrangell City and Borough,AK,51.9,59.7,61.9,66.3,53.2,61.2,63.1,67.1,Wrangell County,142.0,Wrangell County,0.0,2502.0,2,5.675459632294165,0.0
+2261,Alaska,Valdez-Cordova Census Area,AK,50.9,60.3,63.0,73.4,55.6,65.8,68.6,77.9,Valdez-Cordova County,,Valdez-Cordova County,,9202.0,2,,
+2275,Alaska,Wrangell City and Borough,AK,51.9,59.7,61.9,66.3,53.2,61.2,63.1,67.1,Wrangell County,142.0,Wrangell County,,2502.0,2,5.675459632294165,
 2282,Alaska,Yakutat City and Borough,AK,69.1,78.9,79.9,77.0,71.2,81.3,81.6,79.5,Yakutat County,164.0,Yakutat County,2.0,579.0,2,28.324697754749568,0.3454231433506045
 2290,Alaska,Yukon-Koyukuk Census Area,AK,60.5,75.3,75.7,83.9,65.5,81.3,81.5,87.1,Yukon-Koyukuk County,592.0,Yukon-Koyukuk County,5.0,5230.0,2,11.319311663479924,0.09560229445506692
 4001,Arizona,Apache County,AZ,71.1,86.1,81.8,89.2,81.9,99.1,94.1,99.3,Apache County,13172.0,Apache County,474.0,71887.0,1,18.323201691543673,0.659368175052513
@@ -186,7 +186,7 @@ fips,state,county,state_abb,popfull_per,pop_full_12plus_per,pop_full_18plus_per,
 5147,Arkansas,Woodruff County,AR,50.7,59.0,61.1,76.7,57.9,67.4,69.5,83.4,Woodruff County,1066.0,Woodruff County,23.0,6320.0,1,16.867088607594937,0.3639240506329114
 5149,Arkansas,Yell County,AR,42.0,49.7,51.3,64.5,47.3,56.0,57.3,64.7,Yell County,4532.0,Yell County,76.0,21341.0,1,21.23611826999672,0.35612201864954784
 6001,California,Alameda County,CA,69.7,80.4,80.5,87.4,77.8,89.8,89.8,97.3,Alameda County,117998.0,Alameda County,1349.0,1671329.0,1,7.060129992359373,0.08071421006875368
-6003,California,Alpine County,CA,,,,,,,,,Alpine County,102.0,Alpine County,0.0,1129.0,1,9.03454384410983,0.0
+6003,California,Alpine County,CA,,,,,,,,,Alpine County,102.0,Alpine County,,1129.0,1,9.03454384410983,
 6005,California,Amador County,CA,47.2,52.3,53.7,76.3,66.2,73.3,74.8,99.9,Amador County,5166.0,Amador County,61.0,39752.0,1,12.995572549808815,0.15345139867176494
 6007,California,Butte County,CA,45.7,52.7,54.2,72.1,52.0,59.9,61.8,83.2,Butte County,22456.0,Butte County,243.0,219186.0,1,10.24517989287637,0.11086474501108648
 6009,California,Calaveras County,CA,52.0,58.2,60.6,81.7,69.3,77.6,80.5,99.9,Calaveras County,3634.0,Calaveras County,72.0,45905.0,1,7.916348981592419,0.15684565951421411
@@ -230,7 +230,7 @@ fips,state,county,state_abb,popfull_per,pop_full_12plus_per,pop_full_18plus_per,
 6085,California,Santa Clara County,CA,74.2,86.2,86.6,89.5,81.3,94.3,95.0,99.2,Santa Clara County,142386.0,Santa Clara County,1862.0,1927852.0,1,7.385732929706222,0.09658417762359352
 6087,California,Santa Cruz County,CA,68.4,77.8,77.8,90.2,76.4,86.9,86.8,99.9,Santa Cruz County,20514.0,Santa Cruz County,214.0,273213.0,1,7.508427490639172,0.07832716598404907
 6089,California,Shasta County,CA,41.5,48.4,50.6,70.0,50.0,58.3,60.9,84.6,Shasta County,22166.0,Shasta County,303.0,180080.0,1,12.308973789426922,0.16825855175477564
-6091,California,Sierra County,CA,,,,,,,,,Sierra County,146.0,Sierra County,0.0,3005.0,1,4.858569051580699,0.0
+6091,California,Sierra County,CA,,,,,,,,,Sierra County,146.0,Sierra County,,3005.0,1,4.858569051580699,
 6093,California,Siskiyou County,CA,46.5,53.6,56.1,73.3,53.3,61.3,64.1,82.4,Siskiyou County,4204.0,Siskiyou County,42.0,43539.0,1,9.655710971772434,0.09646523806242678
 6095,California,Solano County,CA,55.7,65.1,66.3,77.4,68.0,79.4,80.8,92.6,Solano County,44940.0,Solano County,321.0,447643.0,1,10.039250027365556,0.07170892876689684
 6097,California,Sonoma County,CA,67.2,76.4,77.3,83.9,75.7,86.1,87.0,94.8,Sonoma County,40001.0,Sonoma County,386.0,494336.0,1,8.09186464267219,0.07808454168824443
@@ -270,9 +270,9 @@ fips,state,county,state_abb,popfull_per,pop_full_12plus_per,pop_full_18plus_per,
 8047,Colorado,Gilpin County,CO,52.1,56.9,57.9,76.4,56.9,62.1,63.2,81.2,Gilpin County,402.0,Gilpin County,3.0,6243.0,1,6.4392119173474285,0.04805382027871216
 8049,Colorado,Grand County,CO,55.3,61.6,63.6,69.7,62.8,69.9,71.9,78.7,Grand County,2025.0,Grand County,10.0,15734.0,1,12.87021736367103,0.06355662895640016
 8051,Colorado,Gunnison County,CO,60.7,67.8,68.8,88.6,66.6,74.3,75.1,96.1,Gunnison County,1746.0,Gunnison County,9.0,17462.0,1,9.998854655824076,0.05154048791661894
-8053,Colorado,Hinsdale County,CO,51.6,57.5,58.5,69.0,55.9,,,,Hinsdale County,53.0,Hinsdale County,0.0,820.0,1,6.463414634146342,0.0
+8053,Colorado,Hinsdale County,CO,51.6,57.5,58.5,69.0,55.9,,,,Hinsdale County,53.0,Hinsdale County,,820.0,1,6.463414634146342,
 8055,Colorado,Huerfano County,CO,47.7,53.0,55.5,70.7,51.4,57.1,59.6,74.4,Huerfano County,571.0,Huerfano County,18.0,6897.0,1,8.278961867478614,0.26098303610265333
-8057,Colorado,Jackson County,CO,39.4,44.5,46.0,68.8,41.0,,,,Jackson County,93.0,Jackson County,0.0,1392.0,1,6.68103448275862,0.0
+8057,Colorado,Jackson County,CO,39.4,44.5,46.0,68.8,41.0,,,,Jackson County,93.0,Jackson County,,1392.0,1,6.68103448275862,
 8059,Colorado,Jefferson County,CO,67.9,77.4,78.4,90.1,73.2,83.4,84.5,98.2,Jefferson County,58370.0,Jefferson County,868.0,582881.0,1,10.014050895465799,0.1489154733127345
 8061,Colorado,Kiowa County,CO,33.1,39.6,42.3,67.3,34.9,41.9,44.3,67.6,Kiowa County,122.0,Kiowa County,4.0,1406.0,1,8.677098150782362,0.2844950213371266
 8063,Colorado,Kit Carson County,CO,33.4,39.9,43.1,67.9,35.9,43.0,46.1,70.0,Kit Carson County,855.0,Kit Carson County,14.0,7097.0,1,12.047343948147105,0.19726645061293505
@@ -562,7 +562,7 @@ fips,state,county,state_abb,popfull_per,pop_full_12plus_per,pop_full_18plus_per,
 16027,Idaho,Canyon County,ID,34.7,,48.1,75.5,39.9,,55.3,81.4,Canyon County,36926.0,Canyon County,438.0,229849.0,1,16.0653298469865,0.19055988931863962
 16029,Idaho,Caribou County,ID,31.4,,44.2,66.8,34.3,,48.3,70.7,Caribou County,910.0,Caribou County,14.0,7155.0,1,12.718378756114603,0.1956673654786862
 16031,Idaho,Cassia County,ID,29.0,,42.3,66.1,34.4,,50.2,72.1,Cassia County,3566.0,Cassia County,31.0,24030.0,1,14.839783603828547,0.1290054099042863
-16033,Idaho,Clark County,ID,31.8,,40.8,43.9,35.4,,45.2,46.3,Clark County,73.0,Clark County,0.0,845.0,1,8.63905325443787,0.0
+16033,Idaho,Clark County,ID,31.8,,40.8,43.9,35.4,,45.2,46.3,Clark County,73.0,Clark County,,845.0,1,8.63905325443787,
 16035,Idaho,Clearwater County,ID,36.1,,42.9,69.0,40.1,,47.5,73.4,Clearwater County,1554.0,Clearwater County,25.0,8756.0,1,17.747830059387848,0.28551850159890363
 16037,Idaho,Custer County,ID,38.9,,47.0,61.1,43.4,,52.4,64.9,Custer County,343.0,Custer County,5.0,4315.0,1,7.94901506373117,0.11587485515643105
 16039,Idaho,Elmore County,ID,36.3,,48.1,70.9,51.7,,68.5,85.7,Elmore County,3623.0,Elmore County,37.0,27511.0,1,13.169277743448074,0.13449165788230164
@@ -1215,13 +1215,13 @@ fips,state,county,state_abb,popfull_per,pop_full_12plus_per,pop_full_18plus_per,
 25001,Massachusetts,Barnstable County,MA,5.0,5.5,5.8,6.2,6.4,7.0,7.4,7.8,Barnstable County,16831.0,Barnstable County,507.0,212990.0,1,7.902248931874737,0.23803934457016762
 25003,Massachusetts,Berkshire County,MA,49.6,55.2,54.9,62.7,56.2,62.5,62.2,72.0,Berkshire County,8132.0,Berkshire County,313.0,124944.0,1,6.5085158150851585,0.25051222947880647
 25005,Massachusetts,Bristol County,MA,56.0,64.4,65.6,78.2,62.7,72.0,73.1,86.5,Bristol County,77421.0,Bristol County,1835.0,565217.0,1,13.697571021395321,0.3246540709143568
-25007,Massachusetts,Dukes County,MA,3.6,4.1,4.2,3.8,4.3,4.9,5.0,4.7,Dukes County,0.0,Dukes County,0.0,17332.0,1,0.0,0.0
+25007,Massachusetts,Dukes County,MA,3.6,4.1,4.2,3.8,4.3,4.9,5.0,4.7,Dukes County,,Dukes County,,17332.0,1,,
 25009,Massachusetts,Essex County,MA,63.7,73.6,74.2,84.7,70.8,81.7,82.2,94.3,Essex County,108788.0,Essex County,2468.0,789034.0,1,13.787492047237507,0.3127875351379028
 25011,Massachusetts,Franklin County,MA,59.2,66.2,66.7,76.9,67.1,75.0,75.2,86.4,Franklin County,3235.0,Franklin County,120.0,70180.0,1,4.609575377600456,0.17098888572242804
 25013,Massachusetts,Hampden County,MA,55.9,64.7,66.3,81.2,64.0,74.0,75.5,90.5,Hampden County,62828.0,Hampden County,1624.0,466372.0,1,13.471649241378127,0.34821987597883236
 25015,Massachusetts,Hampshire County,MA,58.0,63.4,63.0,86.1,64.9,70.9,70.3,95.4,Hampshire County,11201.0,Hampshire County,315.0,160830.0,1,6.964496673506186,0.195858981533296
 25017,Massachusetts,Middlesex County,MA,69.2,79.1,79.3,86.2,76.6,87.5,87.4,95.1,Middlesex County,152899.0,Middlesex County,3873.0,1611699.0,1,9.4868210503326,0.24030541683031384
-25019,Massachusetts,Nantucket County,MA,1.3,1.5,1.6,2.9,1.9,2.3,2.3,4.1,Nantucket County,0.0,Nantucket County,0.0,11399.0,1,0.0,0.0
+25019,Massachusetts,Nantucket County,MA,1.3,1.5,1.6,2.9,1.9,2.3,2.3,4.1,Nantucket County,,Nantucket County,,11399.0,1,,
 25021,Massachusetts,Norfolk County,MA,68.2,78.3,78.8,83.6,75.1,86.2,86.5,92.0,Norfolk County,62042.0,Norfolk County,1845.0,706775.0,1,8.778182589933147,0.2610448869866648
 25023,Massachusetts,Plymouth County,MA,60.0,69.0,70.3,81.6,67.6,77.8,79.0,91.1,Plymouth County,56641.0,Plymouth County,1494.0,521202.0,1,10.86737963399987,0.286645101131615
 25025,Massachusetts,Suffolk County,MA,63.2,71.1,71.7,78.8,71.8,80.7,81.1,87.3,Suffolk County,104467.0,Suffolk County,1892.0,803907.0,1,12.994911102901204,0.23535060647562467
@@ -1324,7 +1324,7 @@ fips,state,county,state_abb,popfull_per,pop_full_12plus_per,pop_full_18plus_per,
 27025,Minnesota,Chisago County,MN,49.0,57.3,59.9,93.2,53.4,62.4,65.2,99.7,Chisago County,7559.0,Chisago County,59.0,56579.0,1,13.360080595273866,0.10427897276374626
 27027,Minnesota,Clay County,MN,33.1,39.8,40.6,73.1,38.0,45.7,46.3,81.0,Clay County,9557.0,Clay County,97.0,64222.0,1,14.88119336053066,0.1510385849085983
 27029,Minnesota,Clearwater County,MN,36.6,43.6,46.4,76.7,40.0,47.6,50.7,82.0,Clearwater County,1212.0,Clearwater County,18.0,8818.0,1,13.74461329099569,0.20412792016330233
-27031,Minnesota,Cook County,MN,71.1,78.9,80.5,93.0,76.8,85.1,86.8,95.8,Cook County,220.0,Cook County,0.0,5463.0,1,4.027091341753615,0.0
+27031,Minnesota,Cook County,MN,71.1,78.9,80.5,93.0,76.8,85.1,86.8,95.8,Cook County,220.0,Cook County,,5463.0,1,4.027091341753615,
 27033,Minnesota,Cottonwood County,MN,48.1,57.4,60.1,80.3,52.1,62.0,65.0,84.4,Cottonwood County,1828.0,Cottonwood County,24.0,11196.0,1,16.327259735619865,0.21436227224008575
 27035,Minnesota,Crow Wing County,MN,49.4,57.2,59.8,87.2,53.3,61.8,64.5,92.6,Crow Wing County,8453.0,Crow Wing County,104.0,65055.0,1,12.99362078241488,0.15986472984397818
 27037,Minnesota,Dakota County,MN,58.9,69.8,71.3,87.4,63.5,75.2,76.9,91.6,Dakota County,54027.0,Dakota County,507.0,429021.0,1,12.593089848748662,0.11817603334102525
@@ -1652,8 +1652,8 @@ fips,state,county,state_abb,popfull_per,pop_full_12plus_per,pop_full_18plus_per,
 31001,Nebraska,Adams County,NE,36.8,43.5,45.8,63.9,,,,,Adams County,3716.0,Adams County,46.0,31363.0,1,11.84835634346204,0.146669642572458
 31003,Nebraska,Antelope County,NE,33.4,39.7,42.3,59.9,,,,,Antelope County,645.0,Antelope County,7.0,6298.0,1,10.241346459193394,0.11114639568116863
 31005,Nebraska,Arthur County,NE,16.6,19.8,21.7,40.4,,,,,Arthur County,24.0,Arthur County,1.0,463.0,1,5.183585313174946,0.21598272138228944
-31007,Nebraska,Banner County,NE,24.7,30.0,31.1,34.6,,,,,Banner County,45.0,Banner County,0.0,745.0,1,6.0402684563758395,0.0
-31009,Nebraska,Blaine County,NE,21.9,25.2,25.9,29.6,,,,,Blaine County,36.0,Blaine County,0.0,465.0,1,7.741935483870968,0.0
+31007,Nebraska,Banner County,NE,24.7,30.0,31.1,34.6,,,,,Banner County,45.0,Banner County,,745.0,1,6.0402684563758395,
+31009,Nebraska,Blaine County,NE,21.9,25.2,25.9,29.6,,,,,Blaine County,36.0,Blaine County,,465.0,1,7.741935483870968,
 31011,Nebraska,Boone County,NE,44.6,52.7,56.7,77.3,,,,,Boone County,666.0,Boone County,4.0,5192.0,1,12.827426810477657,0.07704160246533129
 31013,Nebraska,Box Butte County,NE,27.3,33.0,35.0,49.1,,,,,Box Butte County,1345.0,Box Butte County,8.0,10783.0,1,12.473337661133266,0.07419085597700083
 31015,Nebraska,Boyd County,NE,30.6,34.9,36.6,46.6,,,,,Boyd County,223.0,Boyd County,3.0,1919.0,1,11.620635747785304,0.1563314226159458
@@ -1690,8 +1690,8 @@ fips,state,county,state_abb,popfull_per,pop_full_12plus_per,pop_full_18plus_per,
 31077,Nebraska,Greeley County,NE,35.8,42.3,45.5,58.0,,,,,Greeley County,260.0,Greeley County,1.0,2356.0,1,11.03565365025467,0.042444821731748725
 31079,Nebraska,Hall County,NE,40.5,49.6,52.1,66.2,,,,,Hall County,9405.0,Hall County,117.0,61353.0,1,15.329323749449905,0.19069972128502274
 31081,Nebraska,Hamilton County,NE,39.9,47.4,49.5,70.6,,,,,Hamilton County,1204.0,Hamilton County,17.0,9324.0,1,12.912912912912914,0.18232518232518233
-31083,Nebraska,Harlan County,NE,36.3,42.1,43.8,62.0,36.3,,,,Harlan County,252.0,Harlan County,0.0,3380.0,1,7.455621301775148,0.0
-31085,Nebraska,Hayes County,NE,20.8,25.0,26.3,31.0,20.9,25.1,26.6,31.0,Hayes County,67.0,Hayes County,0.0,922.0,1,7.266811279826464,0.0
+31083,Nebraska,Harlan County,NE,36.3,42.1,43.8,62.0,36.3,,,,Harlan County,252.0,Harlan County,,3380.0,1,7.455621301775148,
+31085,Nebraska,Hayes County,NE,20.8,25.0,26.3,31.0,20.9,25.1,26.6,31.0,Hayes County,67.0,Hayes County,,922.0,1,7.266811279826464,
 31087,Nebraska,Hitchcock County,NE,29.6,34.6,37.4,57.9,,,,,Hitchcock County,313.0,Hitchcock County,5.0,2762.0,1,11.332367849384504,0.18102824040550325
 31089,Nebraska,Holt County,NE,36.9,44.5,47.1,64.1,,,,,Holt County,1102.0,Holt County,16.0,10067.0,1,10.946657395450481,0.1589351345981921
 31091,Nebraska,Hooker County,NE,37.7,43.6,46.4,69.7,,,,,Hooker County,67.0,Hooker County,2.0,682.0,1,9.824046920821115,0.2932551319648094
@@ -1700,13 +1700,13 @@ fips,state,county,state_abb,popfull_per,pop_full_12plus_per,pop_full_18plus_per,
 31097,Nebraska,Johnson County,NE,48.2,54.8,57.1,74.5,,,,,Johnson County,679.0,Johnson County,9.0,5071.0,1,13.389863932163282,0.17747978702425557
 31099,Nebraska,Kearney County,NE,41.5,49.3,51.4,67.6,41.9,,,,Kearney County,794.0,Kearney County,5.0,6495.0,1,12.224788298691301,0.07698229407236336
 31101,Nebraska,Keith County,NE,31.6,36.3,38.2,50.8,,,,,Keith County,879.0,Keith County,10.0,8034.0,1,10.941000746825988,0.12447099825740601
-31103,Nebraska,Keya Paha County,NE,25.8,28.8,31.0,40.7,26.1,,,,Keya Paha County,61.0,Keya Paha County,0.0,806.0,1,7.568238213399504,0.0
+31103,Nebraska,Keya Paha County,NE,25.8,28.8,31.0,40.7,26.1,,,,Keya Paha County,61.0,Keya Paha County,,806.0,1,7.568238213399504,
 31105,Nebraska,Kimball County,NE,31.3,36.4,38.5,58.3,,,,,Kimball County,509.0,Kimball County,1.0,3632.0,1,14.01431718061674,0.027533039647577095
 31107,Nebraska,Knox County,NE,43.8,52.1,55.7,63.2,,,,,Knox County,996.0,Knox County,12.0,8332.0,1,11.953912626020163,0.14402304368698993
 31109,Nebraska,Lancaster County,NE,58.8,69.2,70.1,92.2,61.8,72.8,73.5,92.6,Lancaster County,39896.0,Lancaster County,170.0,319090.0,1,12.503055564260867,0.05327650506126798
 31111,Nebraska,Lincoln County,NE,26.6,31.3,32.8,49.9,,,,,Lincoln County,5025.0,Lincoln County,60.0,34914.0,1,14.392507303660423,0.17185083347654237
-31113,Nebraska,Logan County,NE,17.8,20.6,21.8,40.2,,,,,Logan County,91.0,Logan County,0.0,748.0,1,12.165775401069519,0.0
-31115,Nebraska,Loup County,NE,25.3,29.4,30.5,38.5,,,,,Loup County,54.0,Loup County,0.0,664.0,1,8.132530120481928,0.0
+31113,Nebraska,Logan County,NE,17.8,20.6,21.8,40.2,,,,,Logan County,91.0,Logan County,,748.0,1,12.165775401069519,
+31115,Nebraska,Loup County,NE,25.3,29.4,30.5,38.5,,,,,Loup County,54.0,Loup County,,664.0,1,8.132530120481928,
 31117,Nebraska,McPherson County,NE,11.7,12.9,14.4,28.6,,,,,McPherson County,45.0,McPherson County,1.0,494.0,1,9.109311740890687,0.20242914979757085
 31119,Nebraska,Madison County,NE,39.6,48.0,50.7,76.5,,,,,Madison County,5356.0,Madison County,44.0,35099.0,1,15.259694008376307,0.12535969685746032
 31121,Nebraska,Merrick County,NE,37.9,44.2,46.7,70.9,39.2,,,,Merrick County,927.0,Merrick County,15.0,7755.0,1,11.95357833655706,0.19342359767891684
@@ -1731,7 +1731,7 @@ fips,state,county,state_abb,popfull_per,pop_full_12plus_per,pop_full_18plus_per,
 31159,Nebraska,Seward County,NE,44.4,52.4,54.5,88.4,,,,,Seward County,2244.0,Seward County,32.0,17284.0,1,12.983105762554963,0.1851423281647767
 31161,Nebraska,Sheridan County,NE,28.0,32.7,34.6,44.0,,,,,Sheridan County,659.0,Sheridan County,10.0,5246.0,1,12.561951963400686,0.19062142584826536
 31163,Nebraska,Sherman County,NE,35.7,41.2,43.2,60.0,,,,,Sherman County,312.0,Sherman County,4.0,3001.0,1,10.396534488503832,0.13328890369876709
-31165,Nebraska,Sioux County,NE,21.9,24.4,25.7,34.6,,,,,Sioux County,49.0,Sioux County,0.0,1166.0,1,4.202401372212693,0.0
+31165,Nebraska,Sioux County,NE,21.9,24.4,25.7,34.6,,,,,Sioux County,49.0,Sioux County,,1166.0,1,4.202401372212693,
 31167,Nebraska,Stanton County,NE,24.2,28.7,30.7,46.6,,,,,Stanton County,447.0,Stanton County,11.0,5920.0,1,7.550675675675676,0.18581081081081083
 31169,Nebraska,Thayer County,NE,41.4,48.8,52.1,75.2,,,,,Thayer County,656.0,Thayer County,4.0,5003.0,1,13.11213272036778,0.07995202878273036
 31171,Nebraska,Thomas County,NE,21.7,25.6,26.8,49.7,,,,,Thomas County,61.0,Thomas County,1.0,722.0,1,8.448753462603879,0.13850415512465375
@@ -1740,14 +1740,14 @@ fips,state,county,state_abb,popfull_per,pop_full_12plus_per,pop_full_18plus_per,
 31177,Nebraska,Washington County,NE,48.9,57.7,60.3,81.0,50.4,,,,Washington County,2637.0,Washington County,25.0,20729.0,1,12.72130831202663,0.12060398475565633
 31179,Nebraska,Wayne County,NE,36.4,41.9,42.7,56.6,,,,,Wayne County,1187.0,Wayne County,7.0,9385.0,1,12.647842301545017,0.07458710708577516
 31181,Nebraska,Webster County,NE,34.6,40.5,42.9,65.1,,,,,Webster County,453.0,Webster County,7.0,3487.0,1,12.991109836535705,0.20074562661313453
-31183,Nebraska,Wheeler County,NE,26.8,30.9,32.9,39.9,,,,,Wheeler County,61.0,Wheeler County,0.0,783.0,1,7.790549169859514,0.0
+31183,Nebraska,Wheeler County,NE,26.8,30.9,32.9,39.9,,,,,Wheeler County,61.0,Wheeler County,,783.0,1,7.790549169859514,
 31185,Nebraska,York County,NE,46.3,54.7,57.3,77.2,,,,,York County,2239.0,York County,11.0,13679.0,1,16.368155566927406,0.08041523503180056
 32001,Nevada,Churchill County,NV,40.9,48.5,50.4,74.0,47.2,56.0,58.1,81.8,Churchill County,3323.0,Churchill County,56.0,24909.0,1,13.340559637078966,0.22481833875306112
 32003,Nevada,Clark County,NV,47.8,56.4,58.3,73.6,57.9,68.3,70.0,84.8,Clark County,320777.0,Clark County,5660.0,2266715.0,1,14.151624708002549,0.24970055785575163
 32005,Nevada,Douglas County,NV,46.6,51.6,53.3,69.3,51.8,57.3,59.0,74.4,Douglas County,4396.0,Douglas County,50.0,48905.0,1,8.988855945199878,0.10223903486351088
 32007,Nevada,Elko County,NV,33.8,41.3,43.8,72.0,40.6,49.6,51.9,80.8,Elko County,7328.0,Elko County,93.0,52778.0,1,13.884573117586873,0.17620978437985524
-32009,Nevada,Esmeralda County,NV,35.4,39.1,40.1,39.4,44.1,48.7,49.1,46.5,Esmeralda County,58.0,Esmeralda County,0.0,873.0,1,6.643757159221077,0.0
-32011,Nevada,Eureka County,NV,22.9,27.0,29.9,47.6,26.7,31.5,34.6,52.1,Eureka County,143.0,Eureka County,0.0,2029.0,1,7.0478068013799895,0.0
+32009,Nevada,Esmeralda County,NV,35.4,39.1,40.1,39.4,44.1,48.7,49.1,46.5,Esmeralda County,58.0,Esmeralda County,,873.0,1,6.643757159221077,
+32011,Nevada,Eureka County,NV,22.9,27.0,29.9,47.6,26.7,31.5,34.6,52.1,Eureka County,143.0,Eureka County,,2029.0,1,7.0478068013799895,
 32013,Nevada,Humboldt County,NV,35.3,43.1,46.0,71.6,40.1,48.9,51.9,78.9,Humboldt County,1966.0,Humboldt County,19.0,16831.0,1,11.680827045333016,0.1128869348226487
 32015,Nevada,Lander County,NV,32.6,39.8,42.7,55.3,37.4,45.6,48.4,60.2,Lander County,673.0,Lander County,14.0,5532.0,1,12.165582067968185,0.2530730296456978
 32017,Nevada,Lincoln County,NV,32.8,37.4,39.1,55.1,35.9,41.0,42.7,57.4,Lincoln County,492.0,Lincoln County,4.0,5183.0,1,9.492571869573606,0.07717538105344394
@@ -1988,7 +1988,7 @@ fips,state,county,state_abb,popfull_per,pop_full_12plus_per,pop_full_18plus_per,
 38001,North Dakota,Adams County,ND,43.2,49.5,52.5,72.2,48.7,55.7,58.6,78.5,Adams County,341.0,Adams County,4.0,2216.0,1,15.388086642599278,0.18050541516245489
 38003,North Dakota,Barnes County,ND,50.7,57.8,59.8,76.0,57.2,65.1,67.3,84.6,Barnes County,1655.0,Barnes County,32.0,10415.0,1,15.890542486797887,0.3072491598655785
 38005,North Dakota,Benson County,ND,44.2,58.1,60.4,71.2,48.1,63.1,65.1,76.0,Benson County,1238.0,Benson County,20.0,6832.0,1,18.120608899297423,0.29274004683840754
-38007,North Dakota,Billings County,ND,19.1,22.5,23.7,23.2,22.2,26.2,27.6,26.5,Billings County,74.0,Billings County,0.0,928.0,1,7.974137931034483,0.0
+38007,North Dakota,Billings County,ND,19.1,22.5,23.7,23.2,22.2,26.2,27.6,26.5,Billings County,74.0,Billings County,,928.0,1,7.974137931034483,
 38009,North Dakota,Bottineau County,ND,43.3,50.2,52.9,78.5,48.3,56.0,58.3,84.1,Bottineau County,901.0,Bottineau County,20.0,6282.0,1,14.34256606176377,0.3183699458771092
 38011,North Dakota,Bowman County,ND,33.5,40.0,42.9,73.6,41.4,49.4,53.1,89.6,Bowman County,499.0,Bowman County,7.0,3024.0,1,16.50132275132275,0.23148148148148145
 38013,North Dakota,Burke County,ND,34.0,41.0,44.2,70.2,37.0,44.6,47.9,73.1,Burke County,286.0,Burke County,3.0,2115.0,1,13.522458628841608,0.14184397163120568
@@ -2028,7 +2028,7 @@ fips,state,county,state_abb,popfull_per,pop_full_12plus_per,pop_full_18plus_per,
 38081,North Dakota,Sargent County,ND,53.1,62.2,65.3,82.0,57.5,67.4,70.6,87.4,Sargent County,571.0,Sargent County,7.0,3898.0,1,14.648537711646997,0.17957927142124167
 38083,North Dakota,Sheridan County,ND,32.9,37.1,39.4,51.3,35.8,40.5,42.9,54.7,Sheridan County,143.0,Sheridan County,3.0,1315.0,1,10.874524714828897,0.22813688212927757
 38085,North Dakota,Sioux County,ND,35.8,47.2,48.1,76.0,46.0,60.8,59.6,83.0,Sioux County,816.0,Sioux County,14.0,4230.0,1,19.29078014184397,0.3309692671394799
-38087,North Dakota,Slope County,ND,9.3,10.8,11.4,22.5,12.3,14.2,15.1,28.7,Slope County,39.0,Slope County,0.0,750.0,1,5.2,0.0
+38087,North Dakota,Slope County,ND,9.3,10.8,11.4,22.5,12.3,14.2,15.1,28.7,Slope County,39.0,Slope County,,750.0,1,5.2,
 38089,North Dakota,Stark County,ND,30.5,37.7,40.2,67.5,37.0,45.8,48.7,80.1,Stark County,6645.0,Stark County,53.0,31489.0,1,21.10260725967798,0.16831274413287178
 38091,North Dakota,Steele County,ND,41.2,48.5,50.5,64.7,47.5,55.8,57.8,74.2,Steele County,233.0,Steele County,2.0,1890.0,1,12.328042328042327,0.10582010582010583
 38093,North Dakota,Stutsman County,ND,45.7,52.5,54.5,73.7,53.3,61.3,63.5,87.6,Stutsman County,4104.0,Stutsman County,82.0,20704.0,1,19.82225656877898,0.39605873261205565
@@ -2306,84 +2306,84 @@ fips,state,county,state_abb,popfull_per,pop_full_12plus_per,pop_full_18plus_per,
 42129,Pennsylvania,Westmoreland County,PA,52.5,59.4,61.2,79.2,62.7,70.9,73.0,99.0,Westmoreland County,41306.0,Westmoreland County,844.0,348899.0,1,11.838956259547892,0.24190381743713799
 42131,Pennsylvania,Wyoming County,PA,54.7,62.2,64.3,85.5,62.7,71.4,73.6,97.2,Wyoming County,2509.0,Wyoming County,56.0,26794.0,1,9.364036724639844,0.20900201537657684
 42133,Pennsylvania,York County,PA,53.1,61.9,64.4,91.4,60.0,70.0,72.5,99.9,York County,56925.0,York County,908.0,449058.0,1,12.676536215811765,0.20220105197992244
-72001,Puerto Rico,Adjuntas Municipio,PR,64.9,72.8,72.8,90.4,72.2,80.9,80.2,97.5,Adjuntas County,582.0,Adjuntas County,0.0,19483.0,2,2.9872196273674487,0.0
-72003,Puerto Rico,Aguada Municipio,PR,63.6,71.3,71.6,81.2,74.1,83.1,83.4,96.8,Aguada County,2178.0,Aguada County,0.0,41959.0,2,5.190781477156271,0.0
-72005,Puerto Rico,Aguadilla Municipio,PR,69.1,77.5,77.5,99.9,77.2,86.5,86.4,99.9,Aguadilla County,2656.0,Aguadilla County,0.0,60949.0,2,4.357741718485948,0.0
-72007,Puerto Rico,Aguas Buenas Municipio,PR,63.9,71.7,71.6,86.7,71.6,80.2,79.8,97.7,Aguas Buenas County,1442.0,Aguas Buenas County,0.0,28659.0,2,5.031578212777836,0.0
-72009,Puerto Rico,Aibonito Municipio,PR,78.9,88.4,88.5,99.9,84.8,95.0,95.0,99.9,Aibonito County,874.0,Aibonito County,0.0,25900.0,2,3.3745173745173744,0.0
-72011,Puerto Rico,Anasco Municipio,PR,66.7,74.7,74.9,99.2,72.9,81.6,81.6,99.9,Anasco County,1219.0,Anasco County,0.0,29261.0,2,4.165954683708691,0.0
-72013,Puerto Rico,Arecibo Municipio,PR,99.9,99.9,99.9,99.9,99.9,99.9,99.9,99.9,Arecibo County,3968.0,Arecibo County,0.0,96440.0,2,4.1144753214433845,0.0
-72015,Puerto Rico,Arroyo Municipio,PR,64.0,71.7,71.8,93.8,71.3,79.9,79.6,99.9,Arroyo County,386.0,Arroyo County,0.0,19575.0,2,1.9719029374201786,0.0
-72017,Puerto Rico,Barceloneta Municipio,PR,63.0,70.6,70.7,84.4,70.6,79.1,79.2,97.8,Barceloneta County,1008.0,Barceloneta County,0.0,24816.0,2,4.061895551257253,0.0
-72019,Puerto Rico,Barranquitas Municipio,PR,63.0,70.7,70.6,76.0,75.3,84.4,83.5,83.6,Barranquitas County,1446.0,Barranquitas County,0.0,30318.0,2,4.7694438947160105,0.0
-72021,Puerto Rico,Bayamon Municipio,PR,76.9,86.3,86.8,99.9,85.3,95.7,96.3,99.9,Bayamon County,13236.0,Bayamon County,0.0,208116.0,2,6.359914662976417,0.0
-72023,Puerto Rico,Cabo Rojo Municipio,PR,63.6,71.3,71.9,99.9,70.6,79.1,79.3,99.9,Cabo Rojo County,1526.0,Cabo Rojo County,0.0,50917.0,2,2.997034389300234,0.0
-72025,Puerto Rico,Caguas Municipio,PR,69.2,77.5,77.7,97.0,77.4,86.7,86.7,99.9,Caguas County,7805.0,Caguas County,0.0,142893.0,2,5.46212900561959,0.0
-72027,Puerto Rico,Camuy Municipio,PR,67.9,76.1,76.6,96.0,73.5,82.3,82.6,99.9,Camuy County,1522.0,Camuy County,0.0,35159.0,2,4.328905827810802,0.0
-72029,Puerto Rico,Canovanas Municipio,PR,64.7,72.5,72.8,79.5,73.3,82.1,82.1,89.9,Canovanas County,2607.0,Canovanas County,0.0,47648.0,2,5.471373404969778,0.0
-72031,Puerto Rico,Carolina Municipio,PR,68.7,77.1,77.9,99.9,77.9,87.3,87.9,99.9,Carolina County,11217.0,Carolina County,0.0,176762.0,2,6.34582093436372,0.0
-72033,Puerto Rico,Catano Municipio,PR,62.2,69.7,69.4,82.2,71.3,79.9,79.3,95.5,Catano County,1591.0,Catano County,0.0,28140.0,2,5.653873489694385,0.0
-72035,Puerto Rico,Cayey Municipio,PR,71.7,80.4,80.3,99.9,77.5,86.8,86.6,99.9,Cayey County,1602.0,Cayey County,0.0,48119.0,2,3.3292462436875248,0.0
-72037,Puerto Rico,Ceiba Municipio,PR,63.2,70.8,71.0,97.8,70.4,78.9,79.0,99.9,Ceiba County,518.0,Ceiba County,0.0,13631.0,2,3.800161396816081,0.0
-72039,Puerto Rico,Ciales Municipio,PR,71.9,80.6,80.1,98.3,81.5,91.4,90.5,99.9,Ciales County,906.0,Ciales County,0.0,18782.0,2,4.823767436907678,0.0
-72041,Puerto Rico,Cidra Municipio,PR,66.7,74.7,74.3,79.7,73.1,81.9,81.3,88.4,Cidra County,1666.0,Cidra County,0.0,43480.0,2,3.831646734130635,0.0
-72043,Puerto Rico,Coamo Municipio,PR,62.2,69.8,69.3,87.7,69.9,78.4,77.7,97.5,Coamo County,1106.0,Coamo County,0.0,40512.0,2,2.7300552922590837,0.0
-72045,Puerto Rico,Comerio Municipio,PR,58.9,66.0,65.9,79.3,69.5,77.9,77.4,91.4,Comerio County,887.0,Comerio County,0.0,20778.0,2,4.268938300125132,0.0
-72047,Puerto Rico,Corozal Municipio,PR,67.1,75.2,74.3,86.3,76.1,85.3,83.9,96.7,Corozal County,1898.0,Corozal County,0.0,37142.0,2,5.110117925798288,0.0
-72049,Puerto Rico,Culebra Municipio,PR,90.1,99.9,99.9,99.9,99.9,99.9,99.9,99.9,Culebra County,51.0,Culebra County,0.0,1818.0,2,2.8052805280528053,0.0
-72051,Puerto Rico,Dorado Municipio,PR,66.3,74.3,73.5,83.5,74.2,83.2,82.1,94.1,Dorado County,2725.0,Dorado County,0.0,38165.0,2,7.140049783833355,0.0
-72053,Puerto Rico,Fajardo Municipio,PR,66.6,74.7,74.8,97.1,74.9,84.0,84.0,99.9,Fajardo County,1677.0,Fajardo County,0.0,36993.0,2,4.5332900819073885,0.0
-72054,Puerto Rico,Florida Municipio,PR,73.7,82.7,82.6,99.9,83.2,93.3,93.0,99.9,Florida County,688.0,Florida County,0.0,12680.0,2,5.425867507886435,0.0
-72055,Puerto Rico,Guanica Municipio,PR,61.5,68.9,68.6,99.9,68.6,76.9,76.4,99.9,Guanica County,328.0,Guanica County,0.0,19427.0,2,1.6883718536058065,0.0
-72057,Puerto Rico,Guayama Municipio,PR,62.1,69.6,69.7,86.6,68.4,76.7,76.6,94.1,Guayama County,1081.0,Guayama County,0.0,45362.0,2,2.3830518936554825,0.0
-72059,Puerto Rico,Guayanilla Municipio,PR,69.9,78.3,77.6,99.9,78.1,87.5,86.6,99.9,Guayanilla County,477.0,Guayanilla County,0.0,21581.0,2,2.210277558963903,0.0
-72061,Puerto Rico,Guaynabo Municipio,PR,78.8,88.3,89.6,99.9,89.7,99.9,99.9,99.9,Guaynabo County,5704.0,Guaynabo County,0.0,97924.0,2,5.824925452391651,0.0
-72063,Puerto Rico,Gurabo Municipio,PR,57.0,63.9,64.2,74.9,63.4,71.1,71.2,82.9,Gurabo County,2681.0,Gurabo County,0.0,45369.0,2,5.909321342767088,0.0
-72065,Puerto Rico,Hatillo Municipio,PR,60.2,67.5,67.8,84.7,65.2,73.1,73.2,91.6,Hatillo County,1624.0,Hatillo County,0.0,41953.0,2,3.870998498319548,0.0
-72067,Puerto Rico,Hormigueros Municipio,PR,70.9,79.4,80.4,99.9,76.7,86.0,86.8,99.9,Hormigueros County,580.0,Hormigueros County,0.0,17250.0,2,3.3623188405797104,0.0
-72069,Puerto Rico,Humacao Municipio,PR,69.5,77.9,77.9,99.9,77.2,86.5,86.3,99.9,Humacao County,2544.0,Humacao County,0.0,58466.0,2,4.351246878527691,0.0
-72071,Puerto Rico,Isabela Municipio,PR,62.5,70.0,70.2,89.8,70.5,79.0,79.0,99.9,Isabela County,2279.0,Isabela County,0.0,45631.0,2,4.9944116938046506,0.0
-72073,Puerto Rico,Jayuya Municipio,PR,69.9,78.4,77.6,96.0,76.7,86.0,85.0,99.9,Jayuya County,416.0,Jayuya County,0.0,16642.0,2,2.4996995553419064,0.0
-72075,Puerto Rico,Juana Diaz Municipio,PR,62.2,69.7,69.6,80.8,70.4,78.9,78.4,92.4,Juana Diaz County,1459.0,Juana Diaz County,0.0,79897.0,2,1.8261011051729101,0.0
-72077,Puerto Rico,Juncos Municipio,PR,63.4,71.1,70.3,81.6,70.0,78.5,77.5,88.5,Juncos County,2698.0,Juncos County,0.0,40290.0,2,6.696450732191611,0.0
-72079,Puerto Rico,Lajas Municipio,PR,68.2,76.5,76.9,99.9,75.0,84.0,84.1,99.9,Lajas County,625.0,Lajas County,0.0,25753.0,2,2.426901720187939,0.0
-72081,Puerto Rico,Lares Municipio,PR,80.5,90.2,90.3,99.9,92.3,99.9,99.9,99.9,Lares County,1058.0,Lares County,0.0,30753.0,2,3.4403147660390854,0.0
-72083,Puerto Rico,Las Marias Municipio,PR,75.5,84.6,83.9,99.9,83.3,93.3,92.3,99.9,Las Marias County,331.0,Las Marias County,0.0,9881.0,2,3.349863374152414,0.0
-72085,Puerto Rico,Las Piedras Municipio,PR,62.4,70.0,69.4,80.4,70.0,78.4,77.6,88.1,Las Piedras County,1932.0,Las Piedras County,0.0,38675.0,2,4.995475113122172,0.0
-72087,Puerto Rico,Loiza Municipio,PR,46.8,52.4,52.0,58.8,58.3,65.3,64.6,77.9,Loiza County,1547.0,Loiza County,0.0,30060.0,2,5.146373918829009,0.0
-72089,Puerto Rico,Luquillo Municipio,PR,59.6,66.8,66.7,88.1,68.8,77.1,77.0,99.9,Luquillo County,1045.0,Luquillo County,0.0,20068.0,2,5.20729519633247,0.0
-72091,Puerto Rico,Manati Municipio,PR,68.5,76.8,76.9,99.9,75.4,84.5,84.5,99.9,Manati County,1841.0,Manati County,0.0,44113.0,2,4.173372928615147,0.0
-72093,Puerto Rico,Maricao Municipio,PR,59.7,66.9,66.9,82.0,67.0,75.1,74.8,92.7,Maricao County,131.0,Maricao County,0.0,6276.0,2,2.087316762268961,0.0
-72095,Puerto Rico,Maunabo Municipio,PR,64.6,72.4,73.4,99.9,72.3,81.1,81.3,99.9,Maunabo County,439.0,Maunabo County,0.0,12225.0,2,3.591002044989775,0.0
-72097,Puerto Rico,Mayaguez Municipio,PR,69.2,77.5,78.4,99.9,77.0,86.3,86.6,99.9,Mayaguez County,3267.0,Mayaguez County,0.0,89080.0,2,3.6674898967220475,0.0
-72099,Puerto Rico,Moca Municipio,PR,68.0,76.2,75.9,88.8,75.0,84.0,83.6,96.6,Moca County,2109.0,Moca County,0.0,40109.0,2,5.258171482709616,0.0
-72101,Puerto Rico,Morovis Municipio,PR,61.0,68.4,67.4,71.7,69.4,77.7,76.8,80.6,Morovis County,1692.0,Morovis County,0.0,32610.0,2,5.188592456301748,0.0
-72103,Puerto Rico,Naguabo Municipio,PR,54.4,61.0,60.7,77.5,61.1,68.4,68.1,86.3,Naguabo County,1312.0,Naguabo County,0.0,26720.0,2,4.910179640718563,0.0
-72105,Puerto Rico,Naranjito Municipio,PR,69.3,77.7,77.7,91.4,78.3,87.7,87.1,99.9,Naranjito County,1889.0,Naranjito County,0.0,30402.0,2,6.213407012696534,0.0
-72107,Puerto Rico,Orocovis Municipio,PR,69.9,78.4,78.2,80.4,80.4,90.1,89.6,99.2,Orocovis County,984.0,Orocovis County,0.0,23423.0,2,4.200999018059172,0.0
-72109,Puerto Rico,Patillas Municipio,PR,68.2,76.4,77.1,99.9,76.5,85.8,86.1,99.9,Patillas County,410.0,Patillas County,0.0,19277.0,2,2.126886963739171,0.0
-72111,Puerto Rico,Penuelas Municipio,PR,68.2,76.5,75.4,89.0,77.3,86.7,85.2,97.0,Penuelas County,682.0,Penuelas County,0.0,24282.0,2,2.808664854624825,0.0
-72113,Puerto Rico,Ponce Municipio,PR,73.9,82.9,82.7,99.9,83.4,93.4,93.0,99.9,Ponce County,4732.0,Ponce County,0.0,166327.0,2,2.844998106140314,0.0
-72115,Puerto Rico,Quebradillas Municipio,PR,70.8,79.4,79.7,96.9,76.8,86.1,85.9,99.9,Quebradillas County,1210.0,Quebradillas County,0.0,25919.0,2,4.668389984181489,0.0
-72117,Puerto Rico,Rincon Municipio,PR,65.4,73.3,73.5,99.9,71.8,80.5,80.7,99.9,Rincon County,788.0,Rincon County,0.0,15200.0,2,5.184210526315789,0.0
-72119,Puerto Rico,Rio Grande Municipio,PR,60.4,67.7,67.4,83.0,69.9,78.3,78.0,98.5,Rio Grande County,2812.0,Rio Grande County,0.0,54304.0,2,5.178255745433117,0.0
-72121,Puerto Rico,Sabana Grande Municipio,PR,73.0,81.9,82.2,99.9,80.5,90.3,90.3,99.9,Sabana Grande County,601.0,Sabana Grande County,0.0,25265.0,2,2.378784880269147,0.0
-72123,Puerto Rico,Salinas Municipio,PR,66.5,74.6,75.1,96.1,74.6,83.6,83.9,99.9,Salinas County,964.0,Salinas County,0.0,31078.0,2,3.1018727073814274,0.0
-72125,Puerto Rico,San German Municipio,PR,67.2,75.4,76.1,99.9,73.8,82.7,83.0,99.9,San German County,903.0,San German County,0.0,35527.0,2,2.541728825963352,0.0
-72127,Puerto Rico,San Juan Municipio,PR,64.5,72.3,73.8,96.1,76.3,85.5,86.9,99.9,San Juan County,24313.0,San Juan County,0.0,395326.0,2,6.150114083060563,0.0
-72129,Puerto Rico,San Lorenzo Municipio,PR,65.6,73.5,73.4,84.4,74.1,83.0,82.6,99.9,San Lorenzo County,2080.0,San Lorenzo County,0.0,41058.0,2,5.0660041891957714,0.0
-72131,Puerto Rico,San Sebastian Municipio,PR,76.8,86.1,85.5,99.9,82.8,92.8,92.0,99.9,San Sebastian County,1845.0,San Sebastian County,0.0,42430.0,2,4.348338439783173,0.0
-72133,Puerto Rico,Santa Isabel Municipio,PR,62.2,69.8,68.5,76.5,69.6,78.0,76.7,85.2,Santa Isabel County,616.0,Santa Isabel County,0.0,23274.0,2,2.646730256939074,0.0
-72135,Puerto Rico,Toa Alta Municipio,PR,60.0,67.3,67.0,66.0,66.2,74.2,73.9,73.7,Toa Alta County,4840.0,Toa Alta County,0.0,74066.0,2,6.534712283638916,0.0
-72137,Puerto Rico,Toa Baja Municipio,PR,66.8,74.9,75.3,94.0,74.6,83.7,84.1,99.9,Toa Baja County,5087.0,Toa Baja County,0.0,89609.0,2,5.676885134305706,0.0
-72139,Puerto Rico,Trujillo Alto Municipio,PR,43.7,49.0,50.6,70.4,55.2,61.8,63.5,83.0,Trujillo Alto County,3834.0,Trujillo Alto County,0.0,74842.0,2,5.122792015178643,0.0
-72141,Puerto Rico,Utuado Municipio,PR,63.8,71.5,71.6,99.9,71.7,80.4,80.2,99.9,Utuado County,1165.0,Utuado County,0.0,33149.0,2,3.514434824579927,0.0
-72143,Puerto Rico,Vega Alta Municipio,PR,56.8,63.7,63.4,76.4,63.2,70.8,70.4,82.5,Vega Alta County,2387.0,Vega Alta County,0.0,39951.0,2,5.974819153462993,0.0
-72145,Puerto Rico,Vega Baja Municipio,PR,70.2,78.7,78.4,95.1,79.1,88.7,88.3,99.9,Vega Baja County,3852.0,Vega Baja County,0.0,59662.0,2,6.456370889343301,0.0
-72147,Puerto Rico,Vieques Municipio,PR,69.5,78.0,78.6,99.9,76.5,85.8,86.5,99.9,Vieques County,183.0,Vieques County,0.0,9301.0,2,1.9675303730781635,0.0
-72149,Puerto Rico,Villalba Municipio,PR,77.9,87.4,86.3,99.9,84.8,95.0,93.5,99.9,Villalba County,883.0,Villalba County,0.0,26073.0,2,3.386645188509186,0.0
-72151,Puerto Rico,Yabucoa Municipio,PR,64.3,72.1,71.6,96.3,74.8,83.8,83.5,99.9,Yabucoa County,1339.0,Yabucoa County,0.0,37941.0,2,3.5291637015365964,0.0
-72153,Puerto Rico,Yauco Municipio,PR,72.1,80.9,80.3,99.9,80.8,90.5,89.9,99.9,Yauco County,1008.0,Yauco County,0.0,42043.0,2,2.397545370216207,0.0
+72001,Puerto Rico,Adjuntas Municipio,PR,64.9,72.8,72.8,90.4,72.2,80.9,80.2,97.5,Adjuntas County,582.0,Adjuntas County,,19483.0,2,2.9872196273674487,
+72003,Puerto Rico,Aguada Municipio,PR,63.6,71.3,71.6,81.2,74.1,83.1,83.4,96.8,Aguada County,2178.0,Aguada County,,41959.0,2,5.190781477156271,
+72005,Puerto Rico,Aguadilla Municipio,PR,69.1,77.5,77.5,99.9,77.2,86.5,86.4,99.9,Aguadilla County,2656.0,Aguadilla County,,60949.0,2,4.357741718485948,
+72007,Puerto Rico,Aguas Buenas Municipio,PR,63.9,71.7,71.6,86.7,71.6,80.2,79.8,97.7,Aguas Buenas County,1442.0,Aguas Buenas County,,28659.0,2,5.031578212777836,
+72009,Puerto Rico,Aibonito Municipio,PR,78.9,88.4,88.5,99.9,84.8,95.0,95.0,99.9,Aibonito County,874.0,Aibonito County,,25900.0,2,3.3745173745173744,
+72011,Puerto Rico,Anasco Municipio,PR,66.7,74.7,74.9,99.2,72.9,81.6,81.6,99.9,Anasco County,1219.0,Anasco County,,29261.0,2,4.165954683708691,
+72013,Puerto Rico,Arecibo Municipio,PR,99.9,99.9,99.9,99.9,99.9,99.9,99.9,99.9,Arecibo County,3968.0,Arecibo County,,96440.0,2,4.1144753214433845,
+72015,Puerto Rico,Arroyo Municipio,PR,64.0,71.7,71.8,93.8,71.3,79.9,79.6,99.9,Arroyo County,386.0,Arroyo County,,19575.0,2,1.9719029374201786,
+72017,Puerto Rico,Barceloneta Municipio,PR,63.0,70.6,70.7,84.4,70.6,79.1,79.2,97.8,Barceloneta County,1008.0,Barceloneta County,,24816.0,2,4.061895551257253,
+72019,Puerto Rico,Barranquitas Municipio,PR,63.0,70.7,70.6,76.0,75.3,84.4,83.5,83.6,Barranquitas County,1446.0,Barranquitas County,,30318.0,2,4.7694438947160105,
+72021,Puerto Rico,Bayamon Municipio,PR,76.9,86.3,86.8,99.9,85.3,95.7,96.3,99.9,Bayamon County,13236.0,Bayamon County,,208116.0,2,6.359914662976417,
+72023,Puerto Rico,Cabo Rojo Municipio,PR,63.6,71.3,71.9,99.9,70.6,79.1,79.3,99.9,Cabo Rojo County,1526.0,Cabo Rojo County,,50917.0,2,2.997034389300234,
+72025,Puerto Rico,Caguas Municipio,PR,69.2,77.5,77.7,97.0,77.4,86.7,86.7,99.9,Caguas County,7805.0,Caguas County,,142893.0,2,5.46212900561959,
+72027,Puerto Rico,Camuy Municipio,PR,67.9,76.1,76.6,96.0,73.5,82.3,82.6,99.9,Camuy County,1522.0,Camuy County,,35159.0,2,4.328905827810802,
+72029,Puerto Rico,Canovanas Municipio,PR,64.7,72.5,72.8,79.5,73.3,82.1,82.1,89.9,Canovanas County,2607.0,Canovanas County,,47648.0,2,5.471373404969778,
+72031,Puerto Rico,Carolina Municipio,PR,68.7,77.1,77.9,99.9,77.9,87.3,87.9,99.9,Carolina County,11217.0,Carolina County,,176762.0,2,6.34582093436372,
+72033,Puerto Rico,Catano Municipio,PR,62.2,69.7,69.4,82.2,71.3,79.9,79.3,95.5,Catano County,1591.0,Catano County,,28140.0,2,5.653873489694385,
+72035,Puerto Rico,Cayey Municipio,PR,71.7,80.4,80.3,99.9,77.5,86.8,86.6,99.9,Cayey County,1602.0,Cayey County,,48119.0,2,3.3292462436875248,
+72037,Puerto Rico,Ceiba Municipio,PR,63.2,70.8,71.0,97.8,70.4,78.9,79.0,99.9,Ceiba County,518.0,Ceiba County,,13631.0,2,3.800161396816081,
+72039,Puerto Rico,Ciales Municipio,PR,71.9,80.6,80.1,98.3,81.5,91.4,90.5,99.9,Ciales County,906.0,Ciales County,,18782.0,2,4.823767436907678,
+72041,Puerto Rico,Cidra Municipio,PR,66.7,74.7,74.3,79.7,73.1,81.9,81.3,88.4,Cidra County,1666.0,Cidra County,,43480.0,2,3.831646734130635,
+72043,Puerto Rico,Coamo Municipio,PR,62.2,69.8,69.3,87.7,69.9,78.4,77.7,97.5,Coamo County,1106.0,Coamo County,,40512.0,2,2.7300552922590837,
+72045,Puerto Rico,Comerio Municipio,PR,58.9,66.0,65.9,79.3,69.5,77.9,77.4,91.4,Comerio County,887.0,Comerio County,,20778.0,2,4.268938300125132,
+72047,Puerto Rico,Corozal Municipio,PR,67.1,75.2,74.3,86.3,76.1,85.3,83.9,96.7,Corozal County,1898.0,Corozal County,,37142.0,2,5.110117925798288,
+72049,Puerto Rico,Culebra Municipio,PR,90.1,99.9,99.9,99.9,99.9,99.9,99.9,99.9,Culebra County,51.0,Culebra County,,1818.0,2,2.8052805280528053,
+72051,Puerto Rico,Dorado Municipio,PR,66.3,74.3,73.5,83.5,74.2,83.2,82.1,94.1,Dorado County,2725.0,Dorado County,,38165.0,2,7.140049783833355,
+72053,Puerto Rico,Fajardo Municipio,PR,66.6,74.7,74.8,97.1,74.9,84.0,84.0,99.9,Fajardo County,1677.0,Fajardo County,,36993.0,2,4.5332900819073885,
+72054,Puerto Rico,Florida Municipio,PR,73.7,82.7,82.6,99.9,83.2,93.3,93.0,99.9,Florida County,688.0,Florida County,,12680.0,2,5.425867507886435,
+72055,Puerto Rico,Guanica Municipio,PR,61.5,68.9,68.6,99.9,68.6,76.9,76.4,99.9,Guanica County,328.0,Guanica County,,19427.0,2,1.6883718536058065,
+72057,Puerto Rico,Guayama Municipio,PR,62.1,69.6,69.7,86.6,68.4,76.7,76.6,94.1,Guayama County,1081.0,Guayama County,,45362.0,2,2.3830518936554825,
+72059,Puerto Rico,Guayanilla Municipio,PR,69.9,78.3,77.6,99.9,78.1,87.5,86.6,99.9,Guayanilla County,477.0,Guayanilla County,,21581.0,2,2.210277558963903,
+72061,Puerto Rico,Guaynabo Municipio,PR,78.8,88.3,89.6,99.9,89.7,99.9,99.9,99.9,Guaynabo County,5704.0,Guaynabo County,,97924.0,2,5.824925452391651,
+72063,Puerto Rico,Gurabo Municipio,PR,57.0,63.9,64.2,74.9,63.4,71.1,71.2,82.9,Gurabo County,2681.0,Gurabo County,,45369.0,2,5.909321342767088,
+72065,Puerto Rico,Hatillo Municipio,PR,60.2,67.5,67.8,84.7,65.2,73.1,73.2,91.6,Hatillo County,1624.0,Hatillo County,,41953.0,2,3.870998498319548,
+72067,Puerto Rico,Hormigueros Municipio,PR,70.9,79.4,80.4,99.9,76.7,86.0,86.8,99.9,Hormigueros County,580.0,Hormigueros County,,17250.0,2,3.3623188405797104,
+72069,Puerto Rico,Humacao Municipio,PR,69.5,77.9,77.9,99.9,77.2,86.5,86.3,99.9,Humacao County,2544.0,Humacao County,,58466.0,2,4.351246878527691,
+72071,Puerto Rico,Isabela Municipio,PR,62.5,70.0,70.2,89.8,70.5,79.0,79.0,99.9,Isabela County,2279.0,Isabela County,,45631.0,2,4.9944116938046506,
+72073,Puerto Rico,Jayuya Municipio,PR,69.9,78.4,77.6,96.0,76.7,86.0,85.0,99.9,Jayuya County,416.0,Jayuya County,,16642.0,2,2.4996995553419064,
+72075,Puerto Rico,Juana Diaz Municipio,PR,62.2,69.7,69.6,80.8,70.4,78.9,78.4,92.4,Juana Diaz County,1459.0,Juana Diaz County,,79897.0,2,1.8261011051729101,
+72077,Puerto Rico,Juncos Municipio,PR,63.4,71.1,70.3,81.6,70.0,78.5,77.5,88.5,Juncos County,2698.0,Juncos County,,40290.0,2,6.696450732191611,
+72079,Puerto Rico,Lajas Municipio,PR,68.2,76.5,76.9,99.9,75.0,84.0,84.1,99.9,Lajas County,625.0,Lajas County,,25753.0,2,2.426901720187939,
+72081,Puerto Rico,Lares Municipio,PR,80.5,90.2,90.3,99.9,92.3,99.9,99.9,99.9,Lares County,1058.0,Lares County,,30753.0,2,3.4403147660390854,
+72083,Puerto Rico,Las Marias Municipio,PR,75.5,84.6,83.9,99.9,83.3,93.3,92.3,99.9,Las Marias County,331.0,Las Marias County,,9881.0,2,3.349863374152414,
+72085,Puerto Rico,Las Piedras Municipio,PR,62.4,70.0,69.4,80.4,70.0,78.4,77.6,88.1,Las Piedras County,1932.0,Las Piedras County,,38675.0,2,4.995475113122172,
+72087,Puerto Rico,Loiza Municipio,PR,46.8,52.4,52.0,58.8,58.3,65.3,64.6,77.9,Loiza County,1547.0,Loiza County,,30060.0,2,5.146373918829009,
+72089,Puerto Rico,Luquillo Municipio,PR,59.6,66.8,66.7,88.1,68.8,77.1,77.0,99.9,Luquillo County,1045.0,Luquillo County,,20068.0,2,5.20729519633247,
+72091,Puerto Rico,Manati Municipio,PR,68.5,76.8,76.9,99.9,75.4,84.5,84.5,99.9,Manati County,1841.0,Manati County,,44113.0,2,4.173372928615147,
+72093,Puerto Rico,Maricao Municipio,PR,59.7,66.9,66.9,82.0,67.0,75.1,74.8,92.7,Maricao County,131.0,Maricao County,,6276.0,2,2.087316762268961,
+72095,Puerto Rico,Maunabo Municipio,PR,64.6,72.4,73.4,99.9,72.3,81.1,81.3,99.9,Maunabo County,439.0,Maunabo County,,12225.0,2,3.591002044989775,
+72097,Puerto Rico,Mayaguez Municipio,PR,69.2,77.5,78.4,99.9,77.0,86.3,86.6,99.9,Mayaguez County,3267.0,Mayaguez County,,89080.0,2,3.6674898967220475,
+72099,Puerto Rico,Moca Municipio,PR,68.0,76.2,75.9,88.8,75.0,84.0,83.6,96.6,Moca County,2109.0,Moca County,,40109.0,2,5.258171482709616,
+72101,Puerto Rico,Morovis Municipio,PR,61.0,68.4,67.4,71.7,69.4,77.7,76.8,80.6,Morovis County,1692.0,Morovis County,,32610.0,2,5.188592456301748,
+72103,Puerto Rico,Naguabo Municipio,PR,54.4,61.0,60.7,77.5,61.1,68.4,68.1,86.3,Naguabo County,1312.0,Naguabo County,,26720.0,2,4.910179640718563,
+72105,Puerto Rico,Naranjito Municipio,PR,69.3,77.7,77.7,91.4,78.3,87.7,87.1,99.9,Naranjito County,1889.0,Naranjito County,,30402.0,2,6.213407012696534,
+72107,Puerto Rico,Orocovis Municipio,PR,69.9,78.4,78.2,80.4,80.4,90.1,89.6,99.2,Orocovis County,984.0,Orocovis County,,23423.0,2,4.200999018059172,
+72109,Puerto Rico,Patillas Municipio,PR,68.2,76.4,77.1,99.9,76.5,85.8,86.1,99.9,Patillas County,410.0,Patillas County,,19277.0,2,2.126886963739171,
+72111,Puerto Rico,Penuelas Municipio,PR,68.2,76.5,75.4,89.0,77.3,86.7,85.2,97.0,Penuelas County,682.0,Penuelas County,,24282.0,2,2.808664854624825,
+72113,Puerto Rico,Ponce Municipio,PR,73.9,82.9,82.7,99.9,83.4,93.4,93.0,99.9,Ponce County,4732.0,Ponce County,,166327.0,2,2.844998106140314,
+72115,Puerto Rico,Quebradillas Municipio,PR,70.8,79.4,79.7,96.9,76.8,86.1,85.9,99.9,Quebradillas County,1210.0,Quebradillas County,,25919.0,2,4.668389984181489,
+72117,Puerto Rico,Rincon Municipio,PR,65.4,73.3,73.5,99.9,71.8,80.5,80.7,99.9,Rincon County,788.0,Rincon County,,15200.0,2,5.184210526315789,
+72119,Puerto Rico,Rio Grande Municipio,PR,60.4,67.7,67.4,83.0,69.9,78.3,78.0,98.5,Rio Grande County,2812.0,Rio Grande County,,54304.0,2,5.178255745433117,
+72121,Puerto Rico,Sabana Grande Municipio,PR,73.0,81.9,82.2,99.9,80.5,90.3,90.3,99.9,Sabana Grande County,601.0,Sabana Grande County,,25265.0,2,2.378784880269147,
+72123,Puerto Rico,Salinas Municipio,PR,66.5,74.6,75.1,96.1,74.6,83.6,83.9,99.9,Salinas County,964.0,Salinas County,,31078.0,2,3.1018727073814274,
+72125,Puerto Rico,San German Municipio,PR,67.2,75.4,76.1,99.9,73.8,82.7,83.0,99.9,San German County,903.0,San German County,,35527.0,2,2.541728825963352,
+72127,Puerto Rico,San Juan Municipio,PR,64.5,72.3,73.8,96.1,76.3,85.5,86.9,99.9,San Juan County,24313.0,San Juan County,,395326.0,2,6.150114083060563,
+72129,Puerto Rico,San Lorenzo Municipio,PR,65.6,73.5,73.4,84.4,74.1,83.0,82.6,99.9,San Lorenzo County,2080.0,San Lorenzo County,,41058.0,2,5.0660041891957714,
+72131,Puerto Rico,San Sebastian Municipio,PR,76.8,86.1,85.5,99.9,82.8,92.8,92.0,99.9,San Sebastian County,1845.0,San Sebastian County,,42430.0,2,4.348338439783173,
+72133,Puerto Rico,Santa Isabel Municipio,PR,62.2,69.8,68.5,76.5,69.6,78.0,76.7,85.2,Santa Isabel County,616.0,Santa Isabel County,,23274.0,2,2.646730256939074,
+72135,Puerto Rico,Toa Alta Municipio,PR,60.0,67.3,67.0,66.0,66.2,74.2,73.9,73.7,Toa Alta County,4840.0,Toa Alta County,,74066.0,2,6.534712283638916,
+72137,Puerto Rico,Toa Baja Municipio,PR,66.8,74.9,75.3,94.0,74.6,83.7,84.1,99.9,Toa Baja County,5087.0,Toa Baja County,,89609.0,2,5.676885134305706,
+72139,Puerto Rico,Trujillo Alto Municipio,PR,43.7,49.0,50.6,70.4,55.2,61.8,63.5,83.0,Trujillo Alto County,3834.0,Trujillo Alto County,,74842.0,2,5.122792015178643,
+72141,Puerto Rico,Utuado Municipio,PR,63.8,71.5,71.6,99.9,71.7,80.4,80.2,99.9,Utuado County,1165.0,Utuado County,,33149.0,2,3.514434824579927,
+72143,Puerto Rico,Vega Alta Municipio,PR,56.8,63.7,63.4,76.4,63.2,70.8,70.4,82.5,Vega Alta County,2387.0,Vega Alta County,,39951.0,2,5.974819153462993,
+72145,Puerto Rico,Vega Baja Municipio,PR,70.2,78.7,78.4,95.1,79.1,88.7,88.3,99.9,Vega Baja County,3852.0,Vega Baja County,,59662.0,2,6.456370889343301,
+72147,Puerto Rico,Vieques Municipio,PR,69.5,78.0,78.6,99.9,76.5,85.8,86.5,99.9,Vieques County,183.0,Vieques County,,9301.0,2,1.9675303730781635,
+72149,Puerto Rico,Villalba Municipio,PR,77.9,87.4,86.3,99.9,84.8,95.0,93.5,99.9,Villalba County,883.0,Villalba County,,26073.0,2,3.386645188509186,
+72151,Puerto Rico,Yabucoa Municipio,PR,64.3,72.1,71.6,96.3,74.8,83.8,83.5,99.9,Yabucoa County,1339.0,Yabucoa County,,37941.0,2,3.5291637015365964,
+72153,Puerto Rico,Yauco Municipio,PR,72.1,80.9,80.3,99.9,80.8,90.5,89.9,99.9,Yauco County,1008.0,Yauco County,,42043.0,2,2.397545370216207,
 44001,Rhode Island,Bristol County,RI,68.9,77.5,77.8,98.5,74.1,83.4,83.5,99.9,Bristol County,5740.0,Bristol County,149.0,48479.0,1,11.840178221497968,0.3073495740423689
 44003,Rhode Island,Kent County,RI,69.2,78.7,79.9,96.7,74.0,84.1,85.3,99.9,Kent County,21591.0,Kent County,382.0,164292.0,1,13.141845007669273,0.23251284298687705
 44005,Rhode Island,Newport County,RI,69.5,77.8,78.3,82.2,75.5,84.6,84.9,87.3,Newport County,8255.0,Newport County,49.0,82082.0,1,10.05701615457713,0.059696401159815796
@@ -2471,7 +2471,7 @@ fips,state,county,state_abb,popfull_per,pop_full_12plus_per,pop_full_18plus_per,
 46069,South Dakota,Hyde County,SD,39.1,45.4,48.3,62.9,,,,,Hyde County,147.0,Hyde County,1.0,1301.0,1,11.299000768639509,0.07686395080707148
 46071,South Dakota,Jackson County,SD,35.8,47.7,49.0,62.5,39.8,,,,Jackson County,368.0,Jackson County,15.0,3344.0,1,11.004784688995215,0.4485645933014354
 46073,South Dakota,Jerauld County,SD,38.5,45.8,48.2,60.0,,,,,Jerauld County,292.0,Jerauld County,17.0,2013.0,1,14.505712866368603,0.8445106805762544
-46075,South Dakota,Jones County,SD,52.2,61.5,61.6,85.6,56.4,,,,Jones County,136.0,Jones County,0.0,903.0,1,15.060908084163898,0.0
+46075,South Dakota,Jones County,SD,52.2,61.5,61.6,85.6,56.4,,,,Jones County,136.0,Jones County,,903.0,1,15.060908084163898,
 46077,South Dakota,Kingsbury County,SD,56.5,67.4,71.1,97.1,,,,,Kingsbury County,893.0,Kingsbury County,18.0,4939.0,1,18.080583113990688,0.3644462441789836
 46079,South Dakota,Lake County,SD,37.4,43.2,44.1,46.1,,,,,Lake County,1516.0,Lake County,20.0,12797.0,1,11.846526529655389,0.15628662967883097
 46081,South Dakota,Lawrence County,SD,40.6,45.7,46.6,61.2,,,,,Lawrence County,4083.0,Lawrence County,54.0,25844.0,1,15.798637981736574,0.2089459835938709
@@ -2730,7 +2730,7 @@ fips,state,county,state_abb,popfull_per,pop_full_12plus_per,pop_full_18plus_per,
 48263,Texas,Kent County,TX,46.1,40.1,,62.7,,46.1,,67.7,Kent County,120.0,Kent County,3.0,762.0,1,15.748031496062993,0.39370078740157477
 48265,Texas,Kerr County,TX,56.2,49.2,,64.1,,56.2,,70.8,Kerr County,6272.0,Kerr County,119.0,52600.0,1,11.923954372623575,0.22623574144486694
 48267,Texas,Kimble County,TX,51.3,44.1,,64.3,,51.3,,70.1,Kimble County,428.0,Kimble County,11.0,4337.0,1,9.868572746137884,0.2536315425409269
-48269,Texas,King County,TX,24.7,18.6,,15.7,,24.7,,17.6,King County,14.0,King County,0.0,272.0,1,5.147058823529411,0.0
+48269,Texas,King County,TX,24.7,18.6,,15.7,,24.7,,17.6,King County,14.0,King County,,272.0,1,5.147058823529411,
 48271,Texas,Kinney County,TX,54.9,43.8,,62.3,,54.9,,70.4,Kinney County,492.0,Kinney County,8.0,3667.0,1,13.416962094355059,0.218161985274066
 48273,Texas,Kleberg County,TX,75.9,65.6,,91.0,,75.9,,100.0,Kleberg County,4223.0,Kleberg County,125.0,30680.0,1,13.764667535853977,0.4074315514993481
 48275,Texas,Knox County,TX,46.3,41.3,,70.9,,46.3,,74.9,Knox County,299.0,Knox County,20.0,3664.0,1,8.16048034934498,0.5458515283842794
@@ -2746,7 +2746,7 @@ fips,state,county,state_abb,popfull_per,pop_full_12plus_per,pop_full_18plus_per,
 48295,Texas,Lipscomb County,TX,35.7,32.4,,52.5,,35.7,,58.2,Lipscomb County,374.0,Lipscomb County,12.0,3233.0,1,11.568202907516238,0.37117228580266004
 48297,Texas,Live Oak County,TX,39.3,34.1,,52.5,,39.3,,56.9,Live Oak County,1735.0,Live Oak County,34.0,12207.0,1,14.213156385680348,0.27852871303350535
 48299,Texas,Llano County,TX,58.1,51.3,,64.2,,58.1,,70.3,Llano County,2495.0,Llano County,68.0,21795.0,1,11.447579720119293,0.31199816471667813
-48301,Texas,Loving County,TX,30.8,23.8,,39.1,,30.8,,52.2,Loving County,8.0,Loving County,0.0,169.0,1,4.733727810650888,0.0
+48301,Texas,Loving County,TX,30.8,23.8,,39.1,,30.8,,52.2,Loving County,8.0,Loving County,,169.0,1,4.733727810650888,
 48303,Texas,Lubbock County,TX,57.3,49.8,,76.2,,57.3,,85.0,Lubbock County,63877.0,Lubbock County,933.0,310569.0,1,20.567732130380044,0.30041633260241685
 48305,Texas,Lynn County,TX,49.1,42.7,,61.7,,49.1,,69.2,Lynn County,797.0,Lynn County,26.0,5951.0,1,13.392707108049068,0.43690136111577893
 48307,Texas,McCulloch County,TX,45.2,39.0,,69.5,,45.2,,76.2,McCulloch County,895.0,McCulloch County,30.0,7984.0,1,11.209919839679358,0.375751503006012
@@ -2850,35 +2850,35 @@ fips,state,county,state_abb,popfull_per,pop_full_12plus_per,pop_full_18plus_per,
 48503,Texas,Young County,TX,49.1,42.9,,67.6,,49.1,,73.8,Young County,2693.0,Young County,60.0,18010.0,1,14.952803997779013,0.3331482509716824
 48505,Texas,Zapata County,TX,81.3,70.4,,79.0,,81.3,,87.7,Zapata County,2173.0,Zapata County,41.0,14179.0,1,15.32548134565202,0.28916002538966074
 48507,Texas,Zavala County,TX,63.7,55.4,,76.6,,63.7,,83.3,Zavala County,2461.0,Zavala County,52.0,11840.0,1,20.785472972972975,0.4391891891891892
-49001,Utah,Beaver County,UT,37.7,47.8,52.9,83.7,46.5,58.9,64.0,95.8,Beaver County,0.0,Beaver County,0.0,6710.0,1,0.0,0.0
-49003,Utah,Box Elder County,UT,39.0,48.9,51.7,73.7,47.7,59.8,62.5,89.0,Box Elder County,0.0,Box Elder County,0.0,56046.0,1,0.0,0.0
-49005,Utah,Cache County,UT,45.2,56.5,58.6,80.5,55.0,68.7,70.7,97.2,Cache County,0.0,Cache County,0.0,128289.0,1,0.0,0.0
-49007,Utah,Carbon County,UT,39.8,47.6,50.6,75.8,47.2,56.5,59.5,85.8,Carbon County,0.0,Carbon County,0.0,20463.0,1,0.0,0.0
-49009,Utah,Daggett County,UT,50.4,57.6,64.0,71.4,66.2,75.3,80.4,84.9,Daggett County,0.0,Daggett County,0.0,950.0,1,0.0,0.0
+49001,Utah,Beaver County,UT,37.7,47.8,52.9,83.7,46.5,58.9,64.0,95.8,Beaver County,,Beaver County,,6710.0,1,,
+49003,Utah,Box Elder County,UT,39.0,48.9,51.7,73.7,47.7,59.8,62.5,89.0,Box Elder County,,Box Elder County,,56046.0,1,,
+49005,Utah,Cache County,UT,45.2,56.5,58.6,80.5,55.0,68.7,70.7,97.2,Cache County,,Cache County,,128289.0,1,,
+49007,Utah,Carbon County,UT,39.8,47.6,50.6,75.8,47.2,56.5,59.5,85.8,Carbon County,,Carbon County,,20463.0,1,,
+49009,Utah,Daggett County,UT,50.4,57.6,64.0,71.4,66.2,75.3,80.4,84.9,Daggett County,,Daggett County,,950.0,1,,
 49011,Utah,Davis County,UT,53.7,67.8,69.5,86.2,59.6,75.2,76.6,86.9,Davis County,50327.0,Davis County,242.0,355481.0,1,14.157437387652225,0.06807677484872608
-49013,Utah,Duchesne County,UT,33.9,43.7,47.4,78.2,43.4,55.7,59.5,90.4,Duchesne County,0.0,Duchesne County,0.0,19938.0,1,0.0,0.0
-49015,Utah,Emery County,UT,37.0,44.9,49.3,75.2,42.5,51.5,55.5,83.7,Emery County,0.0,Emery County,0.0,10012.0,1,0.0,0.0
-49017,Utah,Garfield County,UT,47.3,54.8,59.3,69.3,55.3,64.0,68.7,77.1,Garfield County,0.0,Garfield County,0.0,5051.0,1,0.0,0.0
-49019,Utah,Grand County,UT,57.2,66.8,69.5,78.6,67.6,78.8,81.9,89.4,Grand County,0.0,Grand County,0.0,9754.0,1,0.0,0.0
-49021,Utah,Iron County,UT,36.1,44.3,47.7,79.5,43.0,52.7,56.0,85.4,Iron County,0.0,Iron County,0.0,54839.0,1,0.0,0.0
-49023,Utah,Juab County,UT,29.4,37.8,42.0,76.5,36.4,46.9,51.9,87.2,Juab County,0.0,Juab County,0.0,12017.0,1,0.0,0.0
-49025,Utah,Kane County,UT,42.1,49.7,53.4,74.9,48.3,57.0,60.5,81.3,Kane County,0.0,Kane County,0.0,7886.0,1,0.0,0.0
-49027,Utah,Millard County,UT,34.7,43.3,47.7,67.0,43.1,53.8,59.1,78.6,Millard County,0.0,Millard County,0.0,13188.0,1,0.0,0.0
-49029,Utah,Morgan County,UT,41.5,52.8,56.9,81.5,49.8,63.3,67.4,91.4,Morgan County,0.0,Morgan County,0.0,12124.0,1,0.0,0.0
-49031,Utah,Piute County,UT,31.8,36.1,41.3,60.1,41.2,46.8,51.5,68.5,Piute County,0.0,Piute County,0.0,1479.0,1,0.0,0.0
-49033,Utah,Rich County,UT,39.1,48.4,52.9,72.1,50.9,63.0,68.2,93.7,Rich County,0.0,Rich County,0.0,2483.0,1,0.0,0.0
+49013,Utah,Duchesne County,UT,33.9,43.7,47.4,78.2,43.4,55.7,59.5,90.4,Duchesne County,,Duchesne County,,19938.0,1,,
+49015,Utah,Emery County,UT,37.0,44.9,49.3,75.2,42.5,51.5,55.5,83.7,Emery County,,Emery County,,10012.0,1,,
+49017,Utah,Garfield County,UT,47.3,54.8,59.3,69.3,55.3,64.0,68.7,77.1,Garfield County,,Garfield County,,5051.0,1,,
+49019,Utah,Grand County,UT,57.2,66.8,69.5,78.6,67.6,78.8,81.9,89.4,Grand County,,Grand County,,9754.0,1,,
+49021,Utah,Iron County,UT,36.1,44.3,47.7,79.5,43.0,52.7,56.0,85.4,Iron County,,Iron County,,54839.0,1,,
+49023,Utah,Juab County,UT,29.4,37.8,42.0,76.5,36.4,46.9,51.9,87.2,Juab County,,Juab County,,12017.0,1,,
+49025,Utah,Kane County,UT,42.1,49.7,53.4,74.9,48.3,57.0,60.5,81.3,Kane County,,Kane County,,7886.0,1,,
+49027,Utah,Millard County,UT,34.7,43.3,47.7,67.0,43.1,53.8,59.1,78.6,Millard County,,Millard County,,13188.0,1,,
+49029,Utah,Morgan County,UT,41.5,52.8,56.9,81.5,49.8,63.3,67.4,91.4,Morgan County,,Morgan County,,12124.0,1,,
+49031,Utah,Piute County,UT,31.8,36.1,41.3,60.1,41.2,46.8,51.5,68.5,Piute County,,Piute County,,1479.0,1,,
+49033,Utah,Rich County,UT,39.1,48.4,52.9,72.1,50.9,63.0,68.2,93.7,Rich County,,Rich County,,2483.0,1,,
 49035,Utah,Salt Lake County,UT,56.7,68.8,70.5,84.5,65.1,79.0,80.7,95.1,Salt Lake County,183169.0,Salt Lake County,1083.0,1160437.0,1,15.78448463811478,0.0933269104656263
 49037,Utah,San Juan County,UT,49.6,61.0,63.3,75.5,57.6,70.8,73.0,81.8,San Juan County,2242.0,San Juan County,40.0,15308.0,1,14.645936765090148,0.2613012803762738
-49039,Utah,Sanpete County,UT,32.2,38.1,39.7,67.2,38.8,45.9,47.1,77.0,Sanpete County,0.0,Sanpete County,0.0,30939.0,1,0.0,0.0
-49041,Utah,Sevier County,UT,33.7,41.3,44.7,74.7,41.3,50.6,54.0,84.2,Sevier County,0.0,Sevier County,0.0,21620.0,1,0.0,0.0
+49039,Utah,Sanpete County,UT,32.2,38.1,39.7,67.2,38.8,45.9,47.1,77.0,Sanpete County,,Sanpete County,,30939.0,1,,
+49041,Utah,Sevier County,UT,33.7,41.3,44.7,74.7,41.3,50.6,54.0,84.2,Sevier County,,Sevier County,,21620.0,1,,
 49043,Utah,Summit County,UT,73.5,85.8,89.1,99.9,85.7,100.0,99.9,99.9,Summit County,6442.0,Summit County,18.0,42145.0,1,15.285324475026693,0.04270969272748843
 49045,Utah,Tooele County,UT,46.0,58.0,60.4,86.6,54.0,68.1,70.4,95.7,Tooele County,10622.0,Tooele County,57.0,72259.0,1,14.699898974522204,0.07888290731950345
-49047,Utah,Uintah County,UT,33.0,42.0,44.6,71.3,42.0,53.4,55.5,82.1,Uintah County,0.0,Uintah County,0.0,35734.0,1,0.0,0.0
+49047,Utah,Uintah County,UT,33.0,42.0,44.6,71.3,42.0,53.4,55.5,82.1,Uintah County,,Uintah County,,35734.0,1,,
 49049,Utah,Utah County,UT,43.3,55.5,58.7,79.2,52.9,67.9,71.0,92.6,Utah County,118498.0,Utah County,506.0,636235.0,1,18.624879172004054,0.07953036220893224
 49051,Utah,Wasatch County,UT,49.1,61.1,63.8,85.3,55.8,69.4,72.0,93.1,Wasatch County,5724.0,Wasatch County,27.0,34091.0,1,16.7903552257194,0.07919978880056319
-49053,Utah,Washington County,UT,42.2,50.6,53.9,75.6,49.4,59.1,62.5,84.5,Washington County,0.0,Washington County,0.0,177556.0,1,0.0,0.0
-49055,Utah,Wayne County,UT,45.0,53.0,57.5,74.0,51.3,60.4,64.9,85.8,Wayne County,0.0,Wayne County,0.0,2711.0,1,0.0,0.0
-49057,Utah,Weber County,UT,47.6,58.4,60.2,82.6,55.2,67.7,69.5,92.8,Weber County,0.0,Weber County,0.0,260213.0,1,0.0,0.0
+49053,Utah,Washington County,UT,42.2,50.6,53.9,75.6,49.4,59.1,62.5,84.5,Washington County,,Washington County,,177556.0,1,,
+49055,Utah,Wayne County,UT,45.0,53.0,57.5,74.0,51.3,60.4,64.9,85.8,Wayne County,,Wayne County,,2711.0,1,,
+49057,Utah,Weber County,UT,47.6,58.4,60.2,82.6,55.2,67.7,69.5,92.8,Weber County,,Weber County,,260213.0,1,,
 50001,Vermont,Addison County,VT,61.7,69.0,69.0,84.0,68.2,76.2,76.2,89.9,Addison County,1374.0,Addison County,8.0,36777.0,1,3.736030671343503,0.021752725888462898
 50003,Vermont,Bennington County,VT,37.4,42.4,42.6,54.1,42.3,47.9,48.3,59.2,Bennington County,2748.0,Bennington County,22.0,35470.0,1,7.747392162390752,0.06202424584155625
 50005,Vermont,Caledonia County,VT,31.8,36.1,36.7,46.3,34.6,39.2,40.0,47.6,Caledonia County,1484.0,Caledonia County,10.0,29993.0,1,4.947821158270263,0.03334111292634948
@@ -3053,7 +3053,7 @@ fips,state,county,state_abb,popfull_per,pop_full_12plus_per,pop_full_18plus_per,
 53049,Washington,Pacific County,WA,48.9,54.2,55.6,72.7,54.5,60.5,61.6,77.2,Pacific County,1664.0,Pacific County,25.0,22471.0,1,7.405099906546216,0.1112545058074852
 53051,Washington,Pend Oreille County,WA,34.3,39.0,40.9,57.8,39.2,44.7,46.7,64.3,Pend Oreille County,1338.0,Pend Oreille County,19.0,13724.0,1,9.749344214514718,0.1384436024482658
 53053,Washington,Pierce County,WA,53.7,63.8,65.2,83.9,60.2,71.4,72.7,90.3,Pierce County,83884.0,Pierce County,805.0,904980.0,1,9.269155119450154,0.08895224203849808
-53055,Washington,San Juan County,WA,73.3,79.5,79.7,82.2,77.3,83.8,83.8,82.8,San Juan County,293.0,San Juan County,0.0,17582.0,1,1.666477078830622,0.0
+53055,Washington,San Juan County,WA,73.3,79.5,79.7,82.2,77.3,83.8,83.8,82.8,San Juan County,293.0,San Juan County,,17582.0,1,1.666477078830622,
 53057,Washington,Skagit County,WA,57.8,67.4,69.3,87.8,63.6,74.2,75.8,92.3,Skagit County,9579.0,Skagit County,99.0,129205.0,1,7.4137997755504825,0.07662242173290507
 53059,Washington,Skamania County,WA,33.9,38.5,39.3,51.5,36.2,41.0,41.9,52.7,Skamania County,661.0,Skamania County,4.0,12083.0,1,5.470495737813457,0.033104361499627574
 53061,Washington,Snohomish County,WA,59.6,70.2,71.3,86.5,64.8,76.3,77.3,90.9,Snohomish County,59338.0,Snohomish County,701.0,822083.0,1,7.218005967767245,0.08527119524427583
