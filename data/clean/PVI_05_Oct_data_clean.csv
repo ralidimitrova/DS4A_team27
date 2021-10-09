@@ -1,4 +1,4 @@
-fips,name,Cases,Deaths,Sick,Spread,DaytimePopDensity,Traffic,SVIHousing,Vaccines,DistancingGrade,Testing,PctBeds,PctVentilators,PctBlack,PctNative,AirPollution,PctGE65,PrematureDeath,Smoking,Diabetes,Obesity,PctNoIns,SVISocioeconomic
+fips,Name,Cases,Deaths,Sick,Spread,DaytimePopDensity,Traffic,SVIHousing,Vaccines,DistancingGrade,Testing,PctBeds,PctVentilators,PctBlack,PctNative,AirPollution,PctGE65,PrematureDeath,Smoking,Diabetes,Obesity,PctNoIns,SVISocioeconomic
 1001,"Alabama, Autauga",9790,142,4.73013075304401,0.0268641470888662,76.0,88.457040416,0.3741,0.658,5.0,1271,0.74,0.3,0.1934317728,0.0048020719,11.7,14.6,8128.5911903,0.1808155718,0.111,0.333,7.1,0.3631
 1003,"Alabama, Baldwin",36602,518,3.61431415178285,0.0215288782033769,121.0,86.997429882,0.3359,0.571,5.0,1399,0.75,0.41,0.0878397593,0.0077239912,10.3,19.5,7354.1225298,0.174890326,0.107,0.31,8.9,0.2232
 1005,"Alabama, Barbour",3521,71,4.74257465535951,0.0335132064754331,27.5,102.29176221,0.9889,0.643,3.7,689,0.66,0.72,0.4803263534,0.0065913749,11.5,18.0,10253.573403,0.2199998453,0.176,0.417,11.3,0.978
