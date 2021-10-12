@@ -5,21 +5,25 @@ Github repo for the capstone project Team #27.
 
 
 
-
 ### Directories:
 
-#### Current Goal Week 3: Data Cleaning & initial EDA:
+#### Current Goal Week 4: `Final EDA + Initial ML`:
+`./DS4A_team27/eda_final` - final data cleaning & EDA
+
+  - `final_EDA.ipynb` - final EDA
+
+----
 
 `./DS4A_team27/eda_notebooks` - all notebooks performing initial EDA pushed by repo members
 
   - `00_vaccination_rate_us.ipynb` - extraction of the vaccination rate data (date: 03/10/21)
   - `01_vaccination_rate_us_visualisation.ipynb` - visualisation of the vacc rate using plotly
   - `02_covid19_severity_us.ipynb` - extraction and visualisation of the covid19 death/cases (date: 03/10/21)
-  - `03_covid19_heath_disparity.ipynb` health disparity data 
+  - `03_covid19_heath_disparity.ipynb` - health disparity data 
+  - `10_covid19_datasets.ipynb` - initial merge of datasets for baseic EDA
   - `Hesitancy_SVI_Ethnicity.ipynb` - extraction and visualisation of the Hesitancy, Social Vulnerability Index, Ethnicity
   - `PVI_data.ipynb` - extracted the correlation between Vaccines and the other factors used in the calculation of the PVI
   - `PVI_results.ipynb` - extracted the correlation between Vaccines Index and the indexes of the other factors used in the calculation of the PVI
-
 
 ----
 
