@@ -3,14 +3,15 @@
 
 Github repo for the capstone project Team #27.
 
-
+#### Current Goal Week 5: `Final EDA + ML`:
 
 ### Directories:
 
-#### Current Goal Week 4: `Final EDA + Initial ML`:
+
 `./DS4A_team27/eda_final` - final data cleaning & EDA
 
-  - `final_EDA.ipynb` - final EDA
+  - `final_data_merging.ipynb` - final cleaning of merged df - `./data/data_after_initial_EDA.csv`
+  - `final_EDA.ipynb` - final EDA - `./data/data_after_final_EDA.csv`
 
 ----
 
@@ -37,11 +38,10 @@ Github repo for the capstone project Team #27.
   - `covi19_death_cases.csv` - covid19 cases and death (county level)
   - `covid19_health_disparity.csv` - heath disparity data (county level)
   - `Hesitancy_SVI_Ethnicity.csv` - Hesitancy, Social Vulnerability Index, Ethnicty (county level)
-  - `PVI_05_Oct_2021_data_clean.csv` - Vaccines, Infection Rate, Pop Concentration, Intervention and Health & Environment (County level)
-  - `PVI_05_Oct_2021_results_clean.csv` - Vaccines, total PVI index, Infection Rate indexes, Pop Concentration indexes, Intervention indexes and Health & Environment indexes (County level)
+  - `PVI_05_Oct_2021_data_clean.csv` - Vaccines, Infection Rate, Pop Concentration, Intervention and Health & Environment (county level)
+  - `PVI_05_Oct_2021_results_clean.csv` - Vaccines, total PVI index, Infection Rate indexes, Pop Concentration indexes, Intervention indexes and Health & Environment indexes (county level)
+  - `cdc_90519_DS1.csv` - CDC data on underlying medical conditions associated with high risk of severe covid-19 (county level)
 
-
-  - `covid19_current_draft_data.csv` - current draft of covid19 data 
 
 ----
 
