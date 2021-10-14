@@ -6,29 +6,29 @@
 
 #### Covid-19 severity
 
-- Johns Hopkins University’s Center for Systems Science and Engineering [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
+- `covi19_death_cases.csv` - Johns Hopkins University’s Center for Systems Science & Engineering [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
 
 
-#### Demographics factors
+#### Socioeconomic / Demographic factors
 
-#### Socioeconomic factors
-
-- `Hesitancy_SVI_Ethnicity.csv` - https://data.cdc.gov/Vaccinations/Vaccine-Hesitancy-for-COVID-19-County-and-local-es/q9mh-h2tw
-
-#### Health risks
+- `Hesitancy_SVI_Ethnicity.csv` - [CDC vaccination hesitancy & Social Vulnerability index (SVI)](https://data.cdc.gov/Vaccinations/Vaccine-Hesitancy-for-COVID-19-County-and-local-es/q9mh-h2tw)
 
 - `covid19_heath_disparity.csv` - [Li et al. 2021](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-11060-9#MOESM1), data from [lin-lab
 /COVID-Health-Disparities](https://github.com/lin-lab/COVID-Health-Disparities)
 
+
 #### Government & Political climate:
 
-- `US Election results 2020 / 2016` - data from [tonmcg/US_County_Level_Election_Results_08-20](https://github.com/tonmcg/US_County_Level_Election_Results_08-20)
+- `election_results_us.csv` - data from [tonmcg/US_County_Level_Election_Results_08-20](https://github.com/tonmcg/US_County_Level_Election_Results_08-20)
+
 
 #### PVI (Pandemic Vulnerability Index)
 
 - `PVI_05_Oct_2021_data.csv`  - source [COVID19PVI/data](https://github.com/COVID19PVI/data/blob/master/Model12.4/Model_12.4_20211005_data.csv)
 
-
 - `PVI_05_Oct_2021_results.csv`  - source [COVID19PVI/data](https://github.com/COVID19PVI/data/blob/master/Model12.4/Model_12.4_20211005_results.csv)
 
 
+#### Medical conditions:
+
+- `cdc_90519_DS1.csv` - [CDC underlying medical conditions data](https://covid.cdc.gov/covid-data-tracker/#underlying-med-conditions)
