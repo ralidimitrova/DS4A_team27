@@ -28,6 +28,13 @@ Github repo for the capstone project Team #27.
 
 ----
 
+`./DS4A_team27/prediction_modelling` - ML predicting vaccination rate in the US
+
+  - `missing_data_imputation.ipynb` - missing data imputation
+
+
+----
+
 `./data/data_source.md` - where do all the data come from?
 
 `./data/raw` - raw data downloaded from source
