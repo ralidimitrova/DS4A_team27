@@ -1,9 +1,10 @@
 ## Understanding the factors influencing COVID-19 vaccination uptake rates in the US
 
 
+![DS4A_team27](/data/figures/cover.png)
+
+
 Github repo for the DS4A capstone project #Team27.
-
-
 
 ## Directories:
 
