@@ -10,19 +10,16 @@ Github repo for the DS4A capstone project #Team27.
 `./project_docs` - final report. 
 
 
-
 `./eda_final` - final data cleaning & EDA
 
    - *final_data_merging.ipynb* - final cleaning of merged df
    - *final_EDA.ipynb* - final EDA 
 
 
-
 `./prediction_modelling` - Predicting vaccination rate in the US
 
   - *missing_data_imputation.ipynb* - missing data imputation
   - *final_modelling.ipynb* - model training, hyperparamaters optimasation, model selection and application of final model to test data. 
-
 
 
 `./eda_notebooks` - all notebooks performing initial EDA on individual datasets
@@ -35,7 +32,6 @@ Github repo for the DS4A capstone project #Team27.
   - *Hesitancy_SVI_Ethnicity.ipynb* - extraction and visualisation of the Hesitancy, Social Vulnerability Index, Ethnicity
   - *PVI_data.ipynb* - extracted the correlation between Vaccines and the other factors used in the calculation of the PVI
   - *PVI_results.ipynb* - extracted the correlation between Vaccines Index and the indexes of the other factors used in the calculation of the PVI
-
 
 
 `./data` - Data used in the project 
@@ -55,5 +51,5 @@ Github repo for the DS4A capstone project #Team27.
   - *cdc_90519_DS1.csv* - CDC data on underlying medical conditions associated with high risk of severe covid-19 (county level)
 
 
-`./data/plots` - plots/figures for report
+`./data/figures` - Figures for the final report
 
